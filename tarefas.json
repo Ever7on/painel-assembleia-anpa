@@ -1,0 +1,1805 @@
+[
+ {
+  "bloco": "Campanha pré-Assembleia · A Luz da Palavra",
+  "dia": "pre",
+  "hora": "10/11",
+  "nota": "",
+  "obs": "Objetivo: explicar o significado e a importância do momento para a ANPa. Abordagem: o que significa, por que acontece a cada quatro anos, importância para a organização da Igreja, avaliação dos últimos quatro anos e perspectivas para o próximo período.",
+  "ordem": 1,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Carrossel: O que é a Assembleia Ordinária?",
+  "id": "p001"
+ },
+ {
+  "bloco": "Campanha pré-Assembleia · A Luz da Palavra",
+  "dia": "pre",
+  "hora": "16/11",
+  "nota": "",
+  "obs": "Objetivo: apresentar o tema oficial e a Bíblia como fundamento da fé e orientação para a missão. Mensagem central: “A Palavra de Deus ilumina nossas escolhas, fortalece nossa fé e orienta nossa missão. Em cada decisão e em cada passo, seguimos guiados pela luz que vem das Escrituras.”",
+  "ordem": 2,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Card ou vídeo: Conheça o tema A Luz da Palavra",
+  "id": "p002"
+ },
+ {
+  "bloco": "Matérias ASN",
+  "dia": "pre",
+  "hora": "16/11",
+  "nota": "",
+  "obs": "Publicar na segunda, 16/11. Informar sobre o evento de 20 a 22/11 e sua importância para a ANPa.",
+  "ordem": 10,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Matéria ASN: a Assembleia Ordinária e sua importância",
+  "id": "p004"
+ },
+ {
+  "bloco": "Produção audiovisual",
+  "dia": "pre",
+  "hora": "18/11",
+  "nota": "",
+  "obs": "Publicação no dia 18/11. Acompanhar a produção da UNB até a entrega.",
+  "ordem": 20,
+  "prio": true,
+  "resp": [
+   "Everton"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Supervisionar o vídeo da história do campo produzido pela UNB",
+  "id": "p005"
+ },
+ {
+  "bloco": "Chegada e preparação",
+  "dia": "sex",
+  "hora": "15:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 1000,
+  "prio": false,
+  "resp": [
+   "Todos"
+  ],
+  "status": "pendente",
+  "tipo": "Preparação",
+  "titulo": "Chegada e check-in da equipe",
+  "id": "t001"
+ },
+ {
+  "bloco": "Chegada e preparação",
+  "dia": "sex",
+  "hora": "15:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 1001,
+  "prio": false,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Conferir câmeras, cartões, baterias, microfones e equipamentos",
+  "id": "t002"
+ },
+ {
+  "bloco": "Chegada e preparação",
+  "dia": "sex",
+  "hora": "15:30",
+  "nota": "",
+  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 1002,
+  "prio": false,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Conferir equipamento fotográfico (corpos, lentes, cartões, baterias)",
+  "id": "t003"
+ },
+ {
+  "bloco": "Chegada e preparação",
+  "dia": "sex",
+  "hora": "16:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 1003,
+  "prio": false,
+  "resp": [
+   "Gustavo",
+   "Franciomar",
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Preparação",
+  "titulo": "Organizar arquivos, materiais gráficos e conteúdos de apoio",
+  "id": "t004"
+ },
+ {
+  "bloco": "Chegada e preparação",
+  "dia": "sex",
+  "hora": "16:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 1004,
+  "prio": true,
+  "resp": [
+   "Franciomar"
+  ],
+  "status": "pendente",
+  "tipo": "Telão",
+  "titulo": "Conferir arquivos do telão: vídeos, apresentações, fontes, resolução e sequência",
+  "id": "t005"
+ },
+ {
+  "bloco": "Chegada e preparação",
+  "dia": "sex",
+  "hora": "16:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 1005,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele",
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Alinhamento editorial e distribuição das pautas",
+  "id": "t006"
+ },
+ {
+  "bloco": "Chegada e preparação",
+  "dia": "sex",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 1006,
+  "prio": false,
+  "resp": [
+   "Gustavo",
+   "Everton"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Reconhecer ambientes e definir posições de captação",
+  "id": "t007"
+ },
+ {
+  "bloco": "Chegada e preparação",
+  "dia": "sex",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 1007,
+  "prio": false,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Definir posições de registro fotográfico",
+  "id": "t008"
+ },
+ {
+  "bloco": "Chegada e preparação",
+  "dia": "sex",
+  "hora": "18:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 1008,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Planejar pautas e entrevistas de sábado",
+  "id": "t009"
+ },
+ {
+  "bloco": "Chegada e preparação",
+  "dia": "sex",
+  "hora": "19:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 1009,
+  "prio": false,
+  "resp": [
+   "Rillary",
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Revisar fluxo de publicação e alinhar criação e social media",
+  "id": "t010"
+ },
+ {
+  "bloco": "Chegada e preparação",
+  "dia": "sex",
+  "hora": "20:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 1010,
+  "prio": false,
+  "resp": [
+   "Todos"
+  ],
+  "status": "pendente",
+  "tipo": "Preparação",
+  "titulo": "Encerramento da preparação",
+  "id": "t011"
+ },
+ {
+  "bloco": "Campanha A Luz da Palavra",
+  "dia": "sab",
+  "hora": "",
+  "nota": "",
+  "obs": "Publicar durante o evento, no sábado. Objetivo: criar expectativa para a homenagem a Serafim Lamego, Ruth Cei, Mario da Luz Neves e Lucia Pantoja. Usar fotografias históricas, trechos curtos dos episódios e frases de impacto, sem revelar toda a homenagem. Encerramento: “Uma história construída por muitas mãos. Um legado que continua iluminando gerações. Em breve, conheça histórias que marcaram nossa caminhada.”",
+  "ordem": 2005,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Teaser em vídeo: Uma história que merece ser lembrada",
+  "id": "p003"
+ },
+ {
+  "bloco": "Jubilação do Pr. Wellington · 08h–09h",
+  "dia": "sab",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2011,
+  "prio": false,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Gravar cerimônia, homenagens, momentos importantes e depoimentos",
+  "id": "t012"
+ },
+ {
+  "bloco": "Jubilação do Pr. Wellington · 08h–09h",
+  "dia": "sab",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 2012,
+  "prio": false,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Registro fotográfico da jubilação",
+  "id": "t013"
+ },
+ {
+  "bloco": "Jubilação do Pr. Wellington · 08h–09h",
+  "dia": "sab",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "Pode ser apenas fotos. Não precisa de carrossel.",
+  "ordem": 2013,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Stories e fotos da jubilação",
+  "id": "t014"
+ },
+ {
+  "bloco": "Jubilação do Pr. Wellington · 08h–09h",
+  "dia": "sab",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "É diferente do carrossel especial do simpósio.",
+  "ordem": 2015,
+  "prio": false,
+  "resp": [
+   "Franciomar"
+  ],
+  "status": "pendente",
+  "tipo": "Design",
+  "titulo": "Carrossel do dia",
+  "id": "t016"
+ },
+ {
+  "bloco": "Jubilação do Pr. Wellington · 08h–09h",
+  "dia": "sab",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "Avaliar se a matéria será necessária.",
+  "ordem": 2018,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Matéria institucional da jubilação (avaliar a necessidade)",
+  "id": "t019"
+ },
+ {
+  "bloco": "Simpósio do Espírito de Profecia · 09h–12h",
+  "dia": "sab",
+  "hora": "09:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2020,
+  "prio": false,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Captar palestras, palestrantes, participantes e imagens gerais",
+  "id": "t021"
+ },
+ {
+  "bloco": "Simpósio do Espírito de Profecia · 09h–12h",
+  "dia": "sab",
+  "hora": "09:00",
+  "nota": "",
+  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 2021,
+  "prio": false,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Registro fotográfico do simpósio e dos palestrantes",
+  "id": "t022"
+ },
+ {
+  "bloco": "Simpósio do Espírito de Profecia · 09h–12h",
+  "dia": "sab",
+  "hora": "09:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2022,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Stories do simpósio e conteúdo para publicações da manhã",
+  "id": "t023"
+ },
+ {
+  "bloco": "Simpósio do Espírito de Profecia · 09h–12h",
+  "dia": "sab",
+  "hora": "09:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2023,
+  "prio": false,
+  "resp": [
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Reunir informações do simpósio e identificar palestrantes",
+  "id": "t024"
+ },
+ {
+  "bloco": "Simpósio do Espírito de Profecia · 09h–12h",
+  "dia": "sab",
+  "hora": "09:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2024,
+  "prio": false,
+  "resp": [
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Design",
+  "titulo": "Carrossel especial do simpósio e cards com frases ou reflexões",
+  "id": "t025"
+ },
+ {
+  "bloco": "Simpósio do Espírito de Profecia · 09h–12h",
+  "dia": "sab",
+  "hora": "09:00",
+  "nota": "",
+  "obs": "Sem VT para a Novo Tempo.",
+  "ordem": 2025,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Matéria institucional do simpósio e entrevistas",
+  "id": "t026"
+ },
+ {
+  "bloco": "Publicações da manhã",
+  "dia": "sab",
+  "hora": "12:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2026,
+  "prio": false,
+  "resp": [
+   "Franciomar",
+   "Jedson",
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Carrossel da manhã com os principais momentos",
+  "id": "t027"
+ },
+ {
+  "bloco": "Publicações da manhã",
+  "dia": "sab",
+  "hora": "12:00",
+  "nota": "",
+  "obs": "Criado por Jedson, conforme definição editorial.",
+  "ordem": 2027,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Publicar carrossel especial do simpósio",
+  "id": "t028"
+ },
+ {
+  "bloco": "Publicações da manhã",
+  "dia": "sab",
+  "hora": "12:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2028,
+  "prio": false,
+  "resp": [
+   "Rillary",
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Reel da jubilação, se houver material e tempo",
+  "id": "t029"
+ },
+ {
+  "bloco": "Almoço e preparação · 12h–17h",
+  "dia": "sab",
+  "hora": "13:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2029,
+  "prio": true,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Backup e organização dos arquivos da manhã",
+  "id": "t030"
+ },
+ {
+  "bloco": "Almoço e preparação · 12h–17h",
+  "dia": "sab",
+  "hora": "13:00",
+  "nota": "",
+  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 2030,
+  "prio": false,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Backup e seleção das fotos da manhã",
+  "id": "t031"
+ },
+ {
+  "bloco": "Almoço e preparação · 12h–17h",
+  "dia": "sab",
+  "hora": "14:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2031,
+  "prio": false,
+  "resp": [
+   "Rillary",
+   "Jedson",
+   "Everton"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Finalizar e publicar conteúdos pendentes",
+  "id": "t032"
+ },
+ {
+  "bloco": "Almoço e preparação · 12h–17h",
+  "dia": "sab",
+  "hora": "15:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2032,
+  "prio": false,
+  "resp": [
+   "Franciomar",
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Telão",
+  "titulo": "Preparar materiais para a abertura",
+  "id": "t033"
+ },
+ {
+  "bloco": "Almoço e preparação · 12h–17h",
+  "dia": "sab",
+  "hora": "15:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2033,
+  "prio": true,
+  "resp": [
+   "Franciomar"
+  ],
+  "status": "pendente",
+  "tipo": "Telão",
+  "titulo": "Conferir sequência de vídeos e apresentações do telão",
+  "id": "t034"
+ },
+ {
+  "bloco": "Almoço e preparação · 12h–17h",
+  "dia": "sab",
+  "hora": "15:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2034,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Revisar pautas e pontos de apuração da abertura",
+  "id": "t035"
+ },
+ {
+  "bloco": "Almoço e preparação · 12h–17h",
+  "dia": "sab",
+  "hora": "16:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2035,
+  "prio": false,
+  "resp": [
+   "Todos"
+  ],
+  "status": "pendente",
+  "tipo": "Preparação",
+  "titulo": "Alinhamento técnico e editorial",
+  "id": "t036"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2036,
+  "prio": false,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Credenciamento: chegada e movimentação",
+  "id": "t037"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2037,
+  "prio": false,
+  "resp": [
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Credenciamento: identificar participantes e autoridades",
+  "id": "t038"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2038,
+  "prio": false,
+  "resp": [
+   "Franciomar"
+  ],
+  "status": "pendente",
+  "tipo": "Telão",
+  "titulo": "Preparar o telão",
+  "id": "t039"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2039,
+  "prio": false,
+  "resp": [
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Monitorar redes durante credenciamento e abertura",
+  "id": "t040"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 2040,
+  "prio": false,
+  "resp": [
+   "Everton"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Entrevistas e informações da abertura",
+  "id": "t041"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "18:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 2041,
+  "prio": false,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Acesso ao auditório: imagens gerais e recepção",
+  "id": "t042"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "19:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 2042,
+  "prio": false,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Registrar cerimônia de abertura",
+  "id": "t043"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "19:30",
+  "nota": "",
+  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 2043,
+  "prio": false,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Registro fotográfico da abertura, voto à Bíblia e entrega das Bíblias",
+  "id": "t044"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "19:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 2044,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Stories: abertura, voto à Bíblia, vídeo-relatório e batismos",
+  "id": "t045"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "19:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 2045,
+  "prio": false,
+  "resp": [
+   "Franciomar"
+  ],
+  "status": "pendente",
+  "tipo": "Telão",
+  "titulo": "Executar vídeo histórico do campo no telão",
+  "id": "t046"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "19:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 2046,
+  "prio": true,
+  "resp": [
+   "Franciomar"
+  ],
+  "status": "pendente",
+  "tipo": "Telão",
+  "titulo": "Executar vídeo-relatório geral no telão",
+  "id": "t047"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "19:30",
+  "nota": "",
+  "obs": "Respeitar a dinâmica da cerimônia e as autorizações de imagem.",
+  "ordem": 2047,
+  "prio": true,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Captar vídeo-relatório: blackout, trilha, entrada dos 4 personagens, evangelizados, Bíblia, lamparina e reação",
+  "id": "t048"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "19:30",
+  "nota": "",
+  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 2048,
+  "prio": true,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Registro fotográfico do vídeo-relatório e dos batismos",
+  "id": "t049"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "19:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 2049,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Identificar personagens do vídeo-relatório",
+  "id": "t050"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "19:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 2050,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Cerimônia de batismo (Pr. Donato): apuração e entrevistas",
+  "id": "t051"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "19:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 2051,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Relatório do presidente: coletar dados e informações",
+  "id": "t052"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "21:15",
+  "nota": "",
+  "obs": "",
+  "ordem": 2052,
+  "prio": false,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Encerramento: registrar momentos finais e organizar arquivos",
+  "id": "t053"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "21:15",
+  "nota": "",
+  "obs": "",
+  "ordem": 2053,
+  "prio": false,
+  "resp": [
+   "Franciomar"
+  ],
+  "status": "pendente",
+  "tipo": "Telão",
+  "titulo": "Encerrar a operação do telão",
+  "id": "t054"
+ },
+ {
+  "bloco": "Abertura oficial · noite",
+  "dia": "sab",
+  "hora": "21:15",
+  "nota": "",
+  "obs": "",
+  "ordem": 2054,
+  "prio": false,
+  "resp": [
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Monitorar repercussões",
+  "id": "t055"
+ },
+ {
+  "bloco": "Publicações de sábado à noite",
+  "dia": "sab",
+  "hora": "21:30",
+  "nota": "",
+  "obs": "Franciomar faz o carrossel, Daniele faz o copy e Rillary posta.",
+  "ordem": 2055,
+  "prio": false,
+  "resp": [
+   "Franciomar",
+   "Daniele",
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Carrossel da noite com os principais momentos",
+  "id": "t056"
+ },
+ {
+  "bloco": "Publicações de sábado à noite",
+  "dia": "sab",
+  "hora": "21:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 2056,
+  "prio": false,
+  "resp": [
+   "Rillary",
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Reel com destaques da programação",
+  "id": "t057"
+ },
+ {
+  "bloco": "Publicações de sábado à noite",
+  "dia": "sab",
+  "hora": "21:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 2058,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Meta do dia: 10 a 15 stories, 2 carrosséis, 1 a 2 reels",
+  "id": "t059"
+ },
+ {
+  "bloco": "Publicações de sábado à noite",
+  "dia": "sab",
+  "hora": "21:30",
+  "nota": "",
+  "obs": "Gravar sonoras, passagem e off.",
+  "ordem": 2059,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Matérias: abertura e batismo",
+  "id": "t060"
+ },
+ {
+  "bloco": "Matérias ASN",
+  "dia": "sab",
+  "hora": "",
+  "nota": "",
+  "obs": "Usar os dados do relatório do presidente e dos relatórios do campo. Trazer o contexto histórico.",
+  "ordem": 2090,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Matéria ASN: avanço do campo com base nos relatórios",
+  "id": "a001"
+ },
+ {
+  "bloco": "Abertura, votações e plenárias · 08h",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3060,
+  "prio": false,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Registrar abertura, plenárias e movimentação da assembleia",
+  "id": "t061"
+ },
+ {
+  "bloco": "Abertura, votações e plenárias · 08h",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 3061,
+  "prio": false,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Registro fotográfico das plenárias e votações",
+  "id": "t062"
+ },
+ {
+  "bloco": "Abertura, votações e plenárias · 08h",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3062,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Stories e material para o carrossel da manhã",
+  "id": "t063"
+ },
+ {
+  "bloco": "Abertura, votações e plenárias · 08h",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3063,
+  "prio": false,
+  "resp": [
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Coletar e conferir informações oficiais das votações",
+  "id": "t064"
+ },
+ {
+  "bloco": "Abertura, votações e plenárias · 08h",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3064,
+  "prio": false,
+  "resp": [
+   "Franciomar"
+  ],
+  "status": "pendente",
+  "tipo": "Telão",
+  "titulo": "Operar apresentações e materiais no telão",
+  "id": "t065"
+ },
+ {
+  "bloco": "Abertura, votações e plenárias · 08h",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3065,
+  "prio": false,
+  "resp": [
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Design",
+  "titulo": "Cards informativos, monitoramento e preparação dos materiais dos eleitos",
+  "id": "t066"
+ },
+ {
+  "bloco": "Abertura, votações e plenárias · 08h",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3066,
+  "prio": false,
+  "resp": [
+   "Everton"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Acompanhar decisões, entrevistas e conteúdos jornalísticos",
+  "id": "t067"
+ },
+ {
+  "bloco": "Divulgação dos eleitos",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "Fotografia é item obrigatório nos cards. Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 3067,
+  "prio": true,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Fotos oficiais dos eleitos para os cards",
+  "id": "t068"
+ },
+ {
+  "bloco": "Divulgação dos eleitos",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "Nenhum resultado preliminar deve ser divulgado.",
+  "ordem": 3068,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Confirmar nomes completos e cargos após resultado oficial",
+  "id": "t069"
+ },
+ {
+  "bloco": "Divulgação dos eleitos",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3069,
+  "prio": true,
+  "resp": [
+   "Franciomar",
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Design",
+  "titulo": "Produzir cards dos eleitos (foto, nome, cargo, identidade visual)",
+  "id": "t070"
+ },
+ {
+  "bloco": "Divulgação dos eleitos",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3070,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Preparar legendas dos eleitos",
+  "id": "t071"
+ },
+ {
+  "bloco": "Divulgação dos eleitos",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3071,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Conferir e aprovar informações dos cards",
+  "id": "t072"
+ },
+ {
+  "bloco": "Divulgação dos eleitos",
+  "dia": "dom",
+  "hora": "08:00",
+  "nota": "",
+  "obs": "Só após confirmação oficial.",
+  "ordem": 3072,
+  "prio": true,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Publicar cards dos eleitos no Instagram",
+  "id": "t073"
+ },
+ {
+  "bloco": "Almoço e organização · 11h30",
+  "dia": "dom",
+  "hora": "11:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 3073,
+  "prio": true,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Backup dos arquivos da manhã",
+  "id": "t074"
+ },
+ {
+  "bloco": "Almoço e organização · 11h30",
+  "dia": "dom",
+  "hora": "11:30",
+  "nota": "",
+  "obs": "Responsável em aberto no cronograma. Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 3074,
+  "prio": false,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Organização das fotografias",
+  "id": "t075"
+ },
+ {
+  "bloco": "Almoço e organização · 11h30",
+  "dia": "dom",
+  "hora": "11:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 3075,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Atualizar informações jornalísticas",
+  "id": "t076"
+ },
+ {
+  "bloco": "Almoço e organização · 11h30",
+  "dia": "dom",
+  "hora": "11:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 3076,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Preparar e publicar carrossel da manhã",
+  "id": "t077"
+ },
+ {
+  "bloco": "Almoço e organização · 11h30",
+  "dia": "dom",
+  "hora": "11:30",
+  "nota": "",
+  "obs": "",
+  "ordem": 3077,
+  "prio": false,
+  "resp": [
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Design",
+  "titulo": "Finalizar cards pendentes",
+  "id": "t078"
+ },
+ {
+  "bloco": "Plenárias da tarde · 13h",
+  "dia": "dom",
+  "hora": "13:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3078,
+  "prio": false,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Registrar plenárias, votações e decisões",
+  "id": "t079"
+ },
+ {
+  "bloco": "Plenárias da tarde · 13h",
+  "dia": "dom",
+  "hora": "13:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3079,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Stories e publicação de resultados oficiais confirmados",
+  "id": "t080"
+ },
+ {
+  "bloco": "Plenárias da tarde · 13h",
+  "dia": "dom",
+  "hora": "13:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3080,
+  "prio": false,
+  "resp": [
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Apurar e conferir informações institucionais",
+  "id": "t081"
+ },
+ {
+  "bloco": "Plenárias da tarde · 13h",
+  "dia": "dom",
+  "hora": "13:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3081,
+  "prio": false,
+  "resp": [
+   "Franciomar"
+  ],
+  "status": "pendente",
+  "tipo": "Telão",
+  "titulo": "Operar apresentações, vídeos e materiais no telão",
+  "id": "t082"
+ },
+ {
+  "bloco": "Plenárias da tarde · 13h",
+  "dia": "dom",
+  "hora": "13:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3082,
+  "prio": false,
+  "resp": [
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Design",
+  "titulo": "Cards dos eleitos e das decisões; monitorar redes",
+  "id": "t083"
+ },
+ {
+  "bloco": "Plenárias da tarde · 13h",
+  "dia": "dom",
+  "hora": "13:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3083,
+  "prio": false,
+  "resp": [
+   "Everton"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Coordenar produção jornalística e entrevistas",
+  "id": "t084"
+ },
+ {
+  "bloco": "Histórias que Iluminam",
+  "dia": "dom",
+  "hora": "14:00",
+  "nota": "",
+  "obs": "Horários das exibições ainda a confirmar com a organização.",
+  "ordem": 3084,
+  "prio": true,
+  "resp": [
+   "Franciomar"
+  ],
+  "status": "pendente",
+  "tipo": "Telão",
+  "titulo": "Operar os 4 episódios no telão",
+  "id": "t085"
+ },
+ {
+  "bloco": "Histórias que Iluminam",
+  "dia": "dom",
+  "hora": "14:00",
+  "nota": "",
+  "obs": "Gravação mobile. Serafim Lamego, Ruth Cei, Mario da Luz Neves e Lucia Pantoja. Vertical, 30 a 45 s.",
+  "ordem": 3085,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Gravar entrevistas com homenageados, familiares ou representantes",
+  "id": "t086"
+ },
+ {
+  "bloco": "Histórias que Iluminam",
+  "dia": "dom",
+  "hora": "14:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3086,
+  "prio": false,
+  "resp": [
+   "Daniele",
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Conduzir entrevistas e orientar as perguntas",
+  "id": "t087"
+ },
+ {
+  "bloco": "Histórias que Iluminam",
+  "dia": "dom",
+  "hora": "14:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3087,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Publicar vídeos nos stories durante a homenagem",
+  "id": "t088"
+ },
+ {
+  "bloco": "Histórias que Iluminam",
+  "dia": "dom",
+  "hora": "14:00",
+  "nota": "",
+  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 3088,
+  "prio": false,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Registro fotográfico das homenagens",
+  "id": "t089"
+ },
+ {
+  "bloco": "Histórias que Iluminam",
+  "dia": "dom",
+  "hora": "14:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3089,
+  "prio": false,
+  "resp": [
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Monitorar redes sociais",
+  "id": "t090"
+ },
+ {
+  "bloco": "Encerramento · 17h",
+  "dia": "dom",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3090,
+  "prio": false,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Registrar encerramento, imagens oficiais, entrevistas e depoimentos",
+  "id": "t091"
+ },
+ {
+  "bloco": "Encerramento · 17h",
+  "dia": "dom",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 3091,
+  "prio": false,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Registro fotográfico do encerramento e foto oficial",
+  "id": "t092"
+ },
+ {
+  "bloco": "Encerramento · 17h",
+  "dia": "dom",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3092,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Stories e conteúdo de encerramento",
+  "id": "t093"
+ },
+ {
+  "bloco": "Encerramento · 17h",
+  "dia": "dom",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3093,
+  "prio": false,
+  "resp": [
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Conferir informações finais e apoiar a matéria",
+  "id": "t094"
+ },
+ {
+  "bloco": "Encerramento · 17h",
+  "dia": "dom",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3094,
+  "prio": false,
+  "resp": [
+   "Franciomar"
+  ],
+  "status": "pendente",
+  "tipo": "Telão",
+  "titulo": "Operar o telão até o fim da programação",
+  "id": "t095"
+ },
+ {
+  "bloco": "Encerramento · 17h",
+  "dia": "dom",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3095,
+  "prio": false,
+  "resp": [
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Design",
+  "titulo": "Monitorar redes e apoiar materiais gráficos finais",
+  "id": "t096"
+ },
+ {
+  "bloco": "Encerramento · 17h",
+  "dia": "dom",
+  "hora": "17:00",
+  "nota": "",
+  "obs": "Base para a matéria ASN de fim de evento.",
+  "ordem": 3096,
+  "prio": false,
+  "resp": [
+   "Everton"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Apuração do encerramento e coordenação da entrega jornalística",
+  "id": "t097"
+ },
+ {
+  "bloco": "Publicações de domingo",
+  "dia": "dom",
+  "hora": "18:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3097,
+  "prio": false,
+  "resp": [
+   "Franciomar",
+   "Jedson",
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Carrossel da tarde com os principais momentos",
+  "id": "t098"
+ },
+ {
+  "bloco": "Publicações de domingo",
+  "dia": "dom",
+  "hora": "18:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3098,
+  "prio": false,
+  "resp": [
+   "Rillary",
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Reel de encerramento",
+  "id": "t099"
+ },
+ {
+  "bloco": "Publicações de domingo",
+  "dia": "dom",
+  "hora": "18:00",
+  "nota": "",
+  "obs": "",
+  "ordem": 3100,
+  "prio": false,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Meta do dia: 10 a 15 stories, 2 carrosséis, 1 a 2 reels",
+  "id": "t101"
+ },
+ {
+  "bloco": "Publicações de domingo",
+  "dia": "dom",
+  "hora": "18:00",
+  "nota": "",
+  "obs": "As matérias dos eleitos estão no bloco Matérias ASN.",
+  "ordem": 3101,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Matéria: decisões da assembleia",
+  "id": "t102"
+ },
+ {
+  "bloco": "Matérias ASN",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "Serafim Lamego, Ruth Cei, Mario da Luz Neves e Lucia Pantoja. Trazer o contexto histórico.",
+  "ordem": 3110,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Matéria ASN: pioneiros homenageados",
+  "id": "a003"
+ },
+ {
+  "bloco": "Matérias ASN",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "Uma matéria por eleito, só após a confirmação oficial. Trazer o contexto histórico.",
+  "ordem": 3111,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Matérias ASN: líderes eleitos",
+  "id": "a004"
+ },
+ {
+  "bloco": "Matérias ASN",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "Destacar o trabalho do SVA. Trazer o contexto histórico.",
+  "ordem": 3112,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Matéria ASN: voluntariado e o trabalho do SVA",
+  "id": "a002"
+ },
+ {
+  "bloco": "Entregas finais",
+  "dia": "pos",
+  "hora": "",
+  "nota": "",
+  "obs": "",
+  "ordem": 4102,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "VT 1 Novo Tempo: batismos e histórias de transformação",
+  "id": "t103"
+ },
+ {
+  "bloco": "Entregas finais",
+  "dia": "pos",
+  "hora": "",
+  "nota": "",
+  "obs": "",
+  "ordem": 4104,
+  "prio": false,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Vídeo institucional final",
+  "id": "t105"
+ },
+ {
+  "bloco": "Entregas finais",
+  "dia": "pos",
+  "hora": "",
+  "nota": "",
+  "obs": "",
+  "ordem": 4105,
+  "prio": true,
+  "resp": [
+   "Gustavo"
+  ],
+  "status": "pendente",
+  "tipo": "Captação",
+  "titulo": "Backup final de todo o material audiovisual",
+  "id": "t106"
+ },
+ {
+  "bloco": "Entregas finais",
+  "dia": "pos",
+  "hora": "",
+  "nota": "",
+  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "ordem": 4106,
+  "prio": false,
+  "resp": [
+   "Fotografia"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Entrega do banco de fotos tratado",
+  "id": "t107"
+ },
+ {
+  "bloco": "Matérias ASN",
+  "dia": "pos",
+  "hora": "",
+  "nota": "",
+  "obs": "Matéria de fechamento da Assembleia Ordinária.",
+  "ordem": 4107,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Matéria ASN: fim de evento",
+  "id": "t108"
+ }
+]
