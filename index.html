@@ -29,7 +29,7 @@
   --f-display:"Chetta Vissto", "Didot", "Bodoni 72", Georgia, serif;
   --f-body:"Archivo", "Segoe UI", system-ui, sans-serif;
   --s-pre:#5b6ee1; --s-sex:#0e9384; --s-sab:#d97a00; --s-dom:#c0392b; --s-pos:#6b6478;
-  --p-everton:#e0701b; --p-daniele:#8a4fd0; --p-gustavo:#1286a0; --p-rillary:#cc3a86; --p-franciomar:#8f5a2a; --p-jedson:#6a8a12; --p-foto:#8d8a82; --p-todos:#5f5d57;
+  --p-everton:#e0701b; --p-daniele:#8a4fd0; --p-gustavo:#1286a0; --p-rillary:#cc3a86; --p-franciomar:#8f5a2a; --p-jedson:#6a8a12; --p-kayo:#4f5bd5; --p-todos:#5f5d57;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --bg:#0a0a0a; --surface:#161616; --surface-2:#1d1d1c; --ink:#f2f1ed; --muted:#a6a39b; --line:#2b2a27;
@@ -39,7 +39,7 @@
   --warn-bg:#2e2306; --warn-line:#7a5c10; --warn-ink:#ffd76b;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -14px rgba(0,0,0,.7); --glass:rgba(10,10,10,.8);
   --s-pre:#8f9cf5; --s-sex:#3cc7b5; --s-sab:#ffa53d; --s-dom:#f0705f; --s-pos:#a49db3;
-  --p-everton:#ff9a4d; --p-daniele:#b58af0; --p-gustavo:#4cc3dd; --p-rillary:#f07ab4; --p-franciomar:#d49a64; --p-jedson:#a8cc45; --p-foto:#a6a39b; --p-todos:#a6a39b; color-scheme:dark}}
+  --p-everton:#ff9a4d; --p-daniele:#b58af0; --p-gustavo:#4cc3dd; --p-rillary:#f07ab4; --p-franciomar:#d49a64; --p-jedson:#a8cc45; --p-kayo:#9aa2ff; --p-todos:#a6a39b; color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#0a0a0a; --surface:#161616; --surface-2:#1d1d1c; --ink:#f2f1ed; --muted:#a6a39b; --line:#2b2a27;
   --accent-ink:#ffc933; --accent-soft:#3a2c05;
@@ -48,10 +48,10 @@
   --warn-bg:#2e2306; --warn-line:#7a5c10; --warn-ink:#ffd76b;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -14px rgba(0,0,0,.7); --glass:rgba(10,10,10,.8);
   --s-pre:#8f9cf5; --s-sex:#3cc7b5; --s-sab:#ffa53d; --s-dom:#f0705f; --s-pos:#a49db3;
-  --p-everton:#ff9a4d; --p-daniele:#b58af0; --p-gustavo:#4cc3dd; --p-rillary:#f07ab4; --p-franciomar:#d49a64; --p-jedson:#a8cc45; --p-foto:#a6a39b; --p-todos:#a6a39b; color-scheme:dark}
+  --p-everton:#ff9a4d; --p-daniele:#b58af0; --p-gustavo:#4cc3dd; --p-rillary:#f07ab4; --p-franciomar:#d49a64; --p-jedson:#a8cc45; --p-kayo:#9aa2ff; --p-todos:#a6a39b; color-scheme:dark}
 [data-p="Everton"]{--pc:var(--p-everton)} [data-p="Daniele"]{--pc:var(--p-daniele)} [data-p="Gustavo"]{--pc:var(--p-gustavo)}
 [data-p="Rillary"]{--pc:var(--p-rillary)} [data-p="Franciomar"]{--pc:var(--p-franciomar)} [data-p="Jedson"]{--pc:var(--p-jedson)}
-[data-p="Fotografia"]{--pc:var(--p-foto)} [data-p="Todos"]{--pc:var(--p-todos)}
+[data-p="Kayo"]{--pc:var(--p-kayo)} [data-p="Todos"]{--pc:var(--p-todos)}
 [data-stage="pre"]{--sc:var(--s-pre)} [data-stage="sex"]{--sc:var(--s-sex)} [data-stage="sab"]{--sc:var(--s-sab)} [data-stage="dom"]{--sc:var(--s-dom)} [data-stage="pos"]{--sc:var(--s-pos)}
 
 *{box-sizing:border-box}
@@ -242,11 +242,6 @@ button:focus-visible,select:focus-visible,textarea:focus-visible,input:focus-vis
 
 <div class="page gut">
   <div class="in">
-    <div class="warn" role="note">
-      <div class="ic">!</div>
-      <div><strong>Registro fotográfico ainda sem equipe</strong>
-      As tarefas de fotografia já estão no painel como <em>Fotografia (a definir)</em>, mas ainda não temos fotógrafos confirmados. Atenção às fotos oficiais dos eleitos: a fotografia é item obrigatório nos cards.</div>
-    </div>
 
     <section>
       <div class="sec-h"><h2>Equipe</h2><span>Toque em uma pessoa para filtrar</span></div>
@@ -285,7 +280,7 @@ const TEAM=[
   {n:"Rillary",r:"Social media"},
   {n:"Franciomar",r:"Design, motion e telão"},
   {n:"Jedson",r:"Designer e monitoramento"},
-  {n:"Fotografia",r:"A definir · sem equipe",tbd:true}
+  {n:"Kayo",r:"Fotografia"}
 ];
 const DAYS=[{k:"pre",l:"Pré-evento",d:"10 a 18/11"},{k:"sex",l:"Sexta",d:"20/11"},{k:"sab",l:"Sábado",d:"21/11"},{k:"dom",l:"Domingo",d:"22/11"},{k:"pos",l:"Pós-evento",d:"entregas"}];
 const ST={pendente:"Pendente",andamento:"Andamento",concluido:"Feito",atrasado:"Atrasado"};
@@ -297,8 +292,8 @@ if(!DAYS.some(d=>d.k===day))day=defaultDay();
 function defaultDay(){const t=new Date();const m=t.getMonth(),d=t.getDate(),y=t.getFullYear();if(y===2026&&m===10){if(d<20)return"pre";if(d===21)return"sab";if(d===22)return"dom";if(d>22)return"pos"}return(y<2026||(y===2026&&m<10))?"pre":"sex"}
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const ini=n=>n==="Fotografia"?"?":n==="Todos"?"T":n.slice(0,2).toUpperCase();
-const hasWho=(t,n)=>t.resp.includes(n)||(t.resp.includes("Todos")&&n!=="Fotografia");
+const ini=n=>n==="Todos"?"T":n.slice(0,2).toUpperCase();
+const hasWho=(t,n)=>t.resp.includes(n)||t.resp.includes("Todos");
 function toast(m){const e=$("#toast");e.textContent=m;e.hidden=false;clearTimeout(toast.t);toast.t=setTimeout(()=>e.hidden=true,2200)}
 function countdown(){const now=new Date();const start=new Date(2026,10,20);const end=new Date(2026,10,23);const ms=864e5;
   if(now<start){const d=Math.ceil((start-now)/ms);return `faltam <em>${d}</em> ${d===1?"dia":"dias"}`}
@@ -334,12 +329,12 @@ function renderList(){
   main.innerHTML=`<div data-stage="${day}" style="display:flex;flex-direction:column;gap:26px">${head}${groups.map(g=>{const k=counts(g.l);return `<section class="block"><h3>${esc(g.b)}<small>${k.concluido}/${g.l.length}</small></h3><div class="cards">${g.l.map(row).join("")}</div></section>`}).join("")}</div>`;
 }
 function row(t){
-  const f=t.resp.includes("Fotografia");
+  const f=false;
   return `<article class="task" data-s="${t.status}" data-id="${t.id}">
     <div class="hr${t.hora?"":" none"}">${t.hora?esc(t.hora.replace(":00","h").replace(":","h")):"—"}</div>
     <div class="body">
       <div class="tt">${esc(t.titulo)}</div>
-      <div class="meta">${t.resp.map(r=>`<span class="who${r==="Fotografia"?" f":""}" data-p="${esc(r)}"><i>${esc(ini(r))}</i>${r==="Fotografia"?"Fotografia (a definir)":esc(r)}</span>`).join("")}<span class="kind">${esc(t.tipo)}</span>${t.prio?`<span class="prio">Prioridade</span>`:""}</div>
+      <div class="meta">${t.resp.map(r=>`<span class="who" data-p="${esc(r)}"><i>${esc(ini(r))}</i>${esc(r)}</span>`).join("")}<span class="kind">${esc(t.tipo)}</span>${t.prio?`<span class="prio">Prioridade</span>`:""}</div>
       ${t.obs?`<div class="obs${f?" f":""}">${esc(t.obs)}</div>`:""}
       ${editing===t.id?`<div class="ed"><div class="fields"><label for="dt-${t.id}">Data ou horário<input id="dt-${t.id}" type="text" value="${esc(t.hora)}" placeholder="Ex.: 16/11 ou 19:30"></label><label for="dia-${t.id}">Etapa<select id="dia-${t.id}">${DAYS.map(d=>`<option value="${d.k}"${t.dia===d.k?" selected":""}>${d.l} (${d.d})</option>`).join("")}</select></label></div><label for="note-${t.id}">Nota<textarea id="note-${t.id}" placeholder="Ex.: material entregue ao Gustavo, falta legenda">${esc(t.nota)}</textarea></label><div class="acts"><button class="btn" data-save="${t.id}">Salvar</button><button class="btn ghost" data-cancel>Cancelar</button></div></div>`:(t.nota?`<div class="note">${esc(t.nota)}</div>`:"")}
     </div>
@@ -369,6 +364,12 @@ document.addEventListener("click",e=>{
   else if(b.dataset.save){const id=b.dataset.save;const v=document.getElementById("note-"+id).value.trim();const h=document.getElementById("dt-"+id).value.trim();const dd=document.getElementById("dia-"+id).value;editing=null;const t=tasks.find(x=>x.id===id);const patch={nota:v,hora:h};if(dd!==t.dia)patch.dia=dd;write(id,patch);if(patch.dia)toast("Tarefa movida para "+DAYS.find(x=>x.k===dd).l)}
 });
 
+function limparObs(o){return String(o||"").replace("Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.","").replace("Responsável em aberto no cronograma. ","").replace(/\s+/g," ").trim()}
+let migrou=false;
+async function migrarFotografia(){
+  if(migrou)return; const alvo=tasks.filter(t=>(t.resp||[]).includes("Fotografia")); if(!alvo.length)return; migrou=true;
+  try{const b=db.batch();alvo.forEach(t=>b.update(db.collection("tarefas").doc(t.id),{resp:t.resp.map(r=>r==="Fotografia"?"Kayo":r),obs:limparObs(t.obs)}));await b.commit()}catch(e){migrou=false}
+}
 renderSummary();
 async function importar(btn){
   btn.disabled=true;btn.textContent="Importando…";
@@ -391,6 +392,7 @@ document.addEventListener("click",e=>{const b=e.target.closest("[data-import]");
   db=firebase.firestore();
   db.collection("tarefas").orderBy("ordem").onSnapshot({includeMetadataChanges:false},snap=>{
     tasks=snap.docs.map(d=>({id:d.id,...d.data()}));
+    if(!snap.metadata.fromCache)migrarFotografia();
     if(!snap.metadata.fromCache){loaded=true;clearTimeout(timer)}else if(tasks.length)loaded=true;
     if(loaded&&!tasks.length&&!snap.metadata.fromCache){renderSummary();$("#main").innerHTML=`<div class="state">O banco de dados está vazio. <br><br><button class="btn" data-import>Importar tarefas do cronograma</button></div>`;return}
     if(editing&&document.activeElement&&document.activeElement.closest&&document.activeElement.closest(".ed")){renderSummary();return}

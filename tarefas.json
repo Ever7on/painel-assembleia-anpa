@@ -103,11 +103,11 @@
   "dia": "sex",
   "hora": "15:30",
   "nota": "",
-  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 1002,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -188,11 +188,11 @@
   "dia": "sex",
   "hora": "17:00",
   "nota": "",
-  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 1007,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -287,11 +287,11 @@
   "dia": "sab",
   "hora": "08:00",
   "nota": "",
-  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 2012,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -368,11 +368,11 @@
   "dia": "sab",
   "hora": "09:00",
   "nota": "",
-  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 2021,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -516,11 +516,11 @@
   "dia": "sab",
   "hora": "13:00",
   "nota": "",
-  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 2030,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -728,11 +728,11 @@
   "dia": "sab",
   "hora": "19:30",
   "nota": "",
-  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 2043,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -808,11 +808,11 @@
   "dia": "sab",
   "hora": "19:30",
   "nota": "",
-  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 2048,
   "prio": true,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1024,11 +1024,11 @@
   "dia": "dom",
   "hora": "08:00",
   "nota": "",
-  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 3061,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1120,11 +1120,11 @@
   "dia": "dom",
   "hora": "08:00",
   "nota": "",
-  "obs": "Fotografia é item obrigatório nos cards. Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "Fotografia é item obrigatório nos cards.",
   "ordem": 3067,
   "prio": true,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1236,11 +1236,11 @@
   "dia": "dom",
   "hora": "11:30",
   "nota": "",
-  "obs": "Responsável em aberto no cronograma. Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 3074,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1462,11 +1462,11 @@
   "dia": "dom",
   "hora": "14:00",
   "nota": "",
-  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 3088,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1510,11 +1510,11 @@
   "dia": "dom",
   "hora": "17:00",
   "nota": "",
-  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 3091,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1774,11 +1774,11 @@
   "dia": "pos",
   "hora": "",
   "nota": "",
-  "obs": "Equipe de fotografia ainda não definida. Tarefa reservada até a confirmação dos fotógrafos.",
+  "obs": "",
   "ordem": 4106,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Kayo"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
