@@ -1,10 +1,10 @@
-// Cole aqui a configuração do seu projeto Firebase
-// (Console do Firebase > Configurações do projeto > Seus apps > App da Web > Configuração do SDK)
+// Configuração do projeto Firebase "painel-assembleia-anpa".
+// Não é uma senha: o acesso é controlado pelas regras do Firestore (firestore.rules).
 window.FIREBASE_CONFIG = {
-  apiKey: "COLE_AQUI",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyBzruHnjfEVFxHSewVajfe5qEfhiRBrQXA",
+  authDomain: "painel-assembleia-anpa.firebaseapp.com",
+  projectId: "painel-assembleia-anpa",
+  storageBucket: "painel-assembleia-anpa.firebasestorage.app",
+  messagingSenderId: "598735939051",
+  appId: "1:598735939051:web:221a74b6862bcc028965ae"
 };
