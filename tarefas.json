@@ -1120,7 +1120,7 @@
   "dia": "dom",
   "hora": "08:00",
   "nota": "",
-  "obs": "Os eleitos só saem no fim da tarde. Pela manhã, deixe os modelos dos cards prontos.",
+  "obs": "O horário dos eleitos não está definido. Deixe os modelos dos cards prontos antes do início das comissões.",
   "ordem": 3065,
   "prio": false,
   "resp": [
@@ -1146,6 +1146,106 @@
   "tipo": "Jornalismo",
   "titulo": "Acompanhar decisões, entrevistas e conteúdos jornalísticos",
   "id": "t067"
+ },
+ {
+  "bloco": "Divulgação dos eleitos · sem horário definido",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "Fotografia é item obrigatório nos cards. Fique de prontidão desde o início das comissões.",
+  "ordem": 3066.1,
+  "prio": true,
+  "resp": [
+   "Kayo"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Fotos oficiais dos eleitos para os cards",
+  "id": "t068"
+ },
+ {
+  "bloco": "Divulgação dos eleitos · sem horário definido",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "Não há horário definido para a divulgação dos eleitos. Só está definido o início dos trabalhos das comissões. A partir desse momento, a equipe fica de prontidão: os nomes saem quando a Comissão de Nomeações apresentar o relatório (item 27 do programa). Nenhum resultado preliminar deve ser divulgado.",
+  "ordem": 3066.2,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Confirmar nomes completos e cargos após resultado oficial",
+  "id": "t069"
+ },
+ {
+  "bloco": "Divulgação dos eleitos · sem horário definido",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "",
+  "ordem": 3066.3,
+  "prio": true,
+  "resp": [
+   "Franciomar",
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Design",
+  "titulo": "Produzir cards dos eleitos (foto, nome, cargo, identidade visual)",
+  "id": "t070"
+ },
+ {
+  "bloco": "Divulgação dos eleitos · sem horário definido",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "",
+  "ordem": 3066.4,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Preparar legendas dos eleitos",
+  "id": "t071"
+ },
+ {
+  "bloco": "Divulgação dos eleitos · sem horário definido",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "",
+  "ordem": 3066.5,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Conferir e aprovar informações dos cards",
+  "id": "t072"
+ },
+ {
+  "bloco": "Divulgação dos eleitos · sem horário definido",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "Só após confirmação oficial.",
+  "ordem": 3066.6,
+  "prio": true,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Publicar cards dos eleitos no Instagram",
+  "id": "t073"
  },
  {
   "bloco": "Almoço e organização · 11h30",
@@ -1420,106 +1520,6 @@
   "tipo": "Redes",
   "titulo": "Monitorar redes sociais",
   "id": "t090"
- },
- {
-  "bloco": "Divulgação dos eleitos · fim da tarde",
-  "dia": "dom",
-  "hora": "",
-  "nota": "",
-  "obs": "Fotografia é item obrigatório nos cards.",
-  "ordem": 3089.1,
-  "prio": true,
-  "resp": [
-   "Kayo"
-  ],
-  "status": "pendente",
-  "tipo": "Fotografia",
-  "titulo": "Fotos oficiais dos eleitos para os cards",
-  "id": "t068"
- },
- {
-  "bloco": "Divulgação dos eleitos · fim da tarde",
-  "dia": "dom",
-  "hora": "",
-  "nota": "",
-  "obs": "Os nomes saem no relatório da Comissão de Nomeações (item 27 do programa), no fim da tarde, depois de Histórias que Iluminam. Nenhum resultado preliminar deve ser divulgado.",
-  "ordem": 3089.2,
-  "prio": true,
-  "resp": [
-   "Everton",
-   "Daniele"
-  ],
-  "status": "pendente",
-  "tipo": "Jornalismo",
-  "titulo": "Confirmar nomes completos e cargos após resultado oficial",
-  "id": "t069"
- },
- {
-  "bloco": "Divulgação dos eleitos · fim da tarde",
-  "dia": "dom",
-  "hora": "",
-  "nota": "",
-  "obs": "",
-  "ordem": 3089.3,
-  "prio": true,
-  "resp": [
-   "Franciomar",
-   "Jedson"
-  ],
-  "status": "pendente",
-  "tipo": "Design",
-  "titulo": "Produzir cards dos eleitos (foto, nome, cargo, identidade visual)",
-  "id": "t070"
- },
- {
-  "bloco": "Divulgação dos eleitos · fim da tarde",
-  "dia": "dom",
-  "hora": "",
-  "nota": "",
-  "obs": "",
-  "ordem": 3089.4,
-  "prio": false,
-  "resp": [
-   "Everton",
-   "Daniele"
-  ],
-  "status": "pendente",
-  "tipo": "Jornalismo",
-  "titulo": "Preparar legendas dos eleitos",
-  "id": "t071"
- },
- {
-  "bloco": "Divulgação dos eleitos · fim da tarde",
-  "dia": "dom",
-  "hora": "",
-  "nota": "",
-  "obs": "",
-  "ordem": 3089.5,
-  "prio": true,
-  "resp": [
-   "Everton",
-   "Daniele"
-  ],
-  "status": "pendente",
-  "tipo": "Jornalismo",
-  "titulo": "Conferir e aprovar informações dos cards",
-  "id": "t072"
- },
- {
-  "bloco": "Divulgação dos eleitos · fim da tarde",
-  "dia": "dom",
-  "hora": "",
-  "nota": "",
-  "obs": "Só após confirmação oficial.",
-  "ordem": 3089.6,
-  "prio": true,
-  "resp": [
-   "Rillary"
-  ],
-  "status": "pendente",
-  "tipo": "Redes",
-  "titulo": "Publicar cards dos eleitos no Instagram",
-  "id": "t073"
  },
  {
   "bloco": "Encerramento · 17h",

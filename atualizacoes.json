@@ -1,5 +1,5 @@
 {
- "rev": 1,
+ "rev": 2,
  "set": {
   "t042": {
    "obs": "Momentos prévios: músicas instrumentais com paisagens da região no telão. A equipe de TI registra a presença pelo crachá."
@@ -32,39 +32,41 @@
    "obs": "Votações da manhã: relatório da secretaria, relatório da tesouraria e composição da Comissão Organizadora e da Comissão de Nomeações."
   },
   "t068": {
-   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "bloco": "Divulgação dos eleitos · sem horário definido",
    "hora": "",
-   "ordem": 3089.1
+   "ordem": 3066.1,
+   "obs": "Fotografia é item obrigatório nos cards. Fique de prontidão desde o início das comissões."
   },
   "t069": {
-   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "bloco": "Divulgação dos eleitos · sem horário definido",
    "hora": "",
-   "ordem": 3089.2,
-   "obs": "Os nomes saem no relatório da Comissão de Nomeações (item 27 do programa), no fim da tarde, depois de Histórias que Iluminam. Nenhum resultado preliminar deve ser divulgado."
+   "ordem": 3066.2,
+   "obs": "Não há horário definido para a divulgação dos eleitos. Só está definido o início dos trabalhos das comissões. A partir desse momento, a equipe fica de prontidão: os nomes saem quando a Comissão de Nomeações apresentar o relatório (item 27 do programa). Nenhum resultado preliminar deve ser divulgado."
   },
   "t070": {
-   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "bloco": "Divulgação dos eleitos · sem horário definido",
    "hora": "",
-   "ordem": 3089.3
+   "ordem": 3066.3
   },
   "t071": {
-   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "bloco": "Divulgação dos eleitos · sem horário definido",
    "hora": "",
-   "ordem": 3089.4
+   "ordem": 3066.4
   },
   "t072": {
-   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "bloco": "Divulgação dos eleitos · sem horário definido",
    "hora": "",
-   "ordem": 3089.5
+   "ordem": 3066.5
   },
   "t073": {
-   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "bloco": "Divulgação dos eleitos · sem horário definido",
    "hora": "",
-   "ordem": 3089.6
+   "ordem": 3066.6,
+   "obs": "Só após confirmação oficial."
   },
   "t066": {
    "titulo": "Cards informativos, monitoramento e modelos dos cards dos eleitos",
-   "obs": "Os eleitos só saem no fim da tarde. Pela manhã, deixe os modelos dos cards prontos."
+   "obs": "O horário dos eleitos não está definido. Deixe os modelos dos cards prontos antes do início das comissões."
   },
   "t083": {
    "titulo": "Cards das decisões da tarde; monitorar redes"
