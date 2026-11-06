@@ -62,11 +62,11 @@ h1,h2,h3{margin:0;text-wrap:balance}
 .label{font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-stretch:115%}
 
 /* Herói */
-.hero{background:radial-gradient(55% 120% at 0% 0%,rgba(255,200,40,.35),transparent 70%),linear-gradient(180deg,#fffbf1,#fff3d6);color:var(--hero-ink);position:relative;overflow:hidden}
-.hero::after{content:"";position:absolute;inset:auto 0 0 0;height:3px;background:#ffbc00}
+.hero{background:repeating-conic-gradient(from 0deg at 9% 30%,rgba(255,188,0,.13) 0deg 4deg,transparent 4deg 13deg),radial-gradient(48% 90% at 9% 30%,rgba(255,206,64,.85),rgba(255,214,102,.35) 45%,transparent 75%),radial-gradient(50% 80% at 100% 100%,rgba(255,188,0,.25),transparent 70%),linear-gradient(160deg,#fffbf1,#ffeec2);color:var(--hero-ink);position:relative;overflow:hidden}
+.hero::after{content:"";position:absolute;inset:auto 0 0 0;height:4px;background:linear-gradient(90deg,#ffbc00,#ffd65c,#ffbc00)}
 .hero .in{padding-block:32px 32px;display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:40px;align-items:center}
 .brand{display:flex;flex-direction:column;gap:18px;min-width:0}
-.brand .logo{width:min(380px,100%);height:auto;display:block;filter:none}
+.brand .logo{width:min(380px,100%);height:auto;display:block;filter:drop-shadow(0 0 24px rgba(255,236,170,.9))}
 .brand .sub{margin:0;font-size:14px;font-weight:700;color:var(--hero-ink);line-height:1.5}.brand .sub span{font-weight:500;color:var(--hero-muted)}
 .brand .tipo{width:min(250px,70%);height:auto;display:block;color:var(--hero-muted)}
 .brand .label{color:#8a6400}
