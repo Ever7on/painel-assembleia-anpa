@@ -696,7 +696,7 @@
   "dia": "sab",
   "hora": "18:30",
   "nota": "",
-  "obs": "",
+  "obs": "Momentos prévios: músicas instrumentais com paisagens da região no telão. A equipe de TI registra a presença pelo crachá.",
   "ordem": 2041,
   "prio": false,
   "resp": [
@@ -706,6 +706,22 @@
   "tipo": "Captação",
   "titulo": "Acesso ao auditório: imagens gerais e recepção",
   "id": "t042"
+ },
+ {
+  "id": "n001",
+  "dia": "sab",
+  "bloco": "Abertura oficial · noite",
+  "hora": "18:30",
+  "titulo": "Exibir paisagens da região com música instrumental no telão",
+  "resp": [
+   "Franciomar"
+  ],
+  "tipo": "Telão",
+  "prio": false,
+  "obs": "Momentos prévios da abertura, enquanto os delegados chegam.",
+  "ordem": 2041.5,
+  "status": "pendente",
+  "nota": ""
  },
  {
   "bloco": "Abertura oficial · noite",
@@ -728,7 +744,7 @@
   "dia": "sab",
   "hora": "19:30",
   "nota": "",
-  "obs": "",
+  "obs": "No apelo, o presidente entrega a Bíblia aos administradores da UNB e da ANPa e aos delegados, com foto.",
   "ordem": 2043,
   "prio": false,
   "resp": [
@@ -738,6 +754,22 @@
   "tipo": "Fotografia",
   "titulo": "Registro fotográfico da abertura, voto à Bíblia e entrega das Bíblias",
   "id": "t044"
+ },
+ {
+  "id": "n002",
+  "dia": "sab",
+  "bloco": "Abertura oficial · noite",
+  "hora": "19:30",
+  "titulo": "Registro fotográfico das 13 igrejas organizadas",
+  "resp": [
+   "Kayo"
+  ],
+  "tipo": "Fotografia",
+  "prio": false,
+  "obs": "Os representantes das 13 igrejas organizadas no período vão à frente quando o secretário chamar o nome de cada igreja.",
+  "ordem": 2043.5,
+  "status": "pendente",
+  "nota": ""
  },
  {
   "bloco": "Abertura oficial · noite",
@@ -760,7 +792,7 @@
   "dia": "sab",
   "hora": "19:30",
   "nota": "",
-  "obs": "",
+  "obs": "Durante o relatório do presidente, a história do campo é contada com pessoas representando. O programa pede projeções nesta ordem: mapa da região, floresta e escuridão; mapa da grande região com muitas pessoas; porto, barcos e imagens antigas de Belém; igreja do Cumatê, em Curuçá.",
   "ordem": 2045,
   "prio": false,
   "resp": [
@@ -776,7 +808,7 @@
   "dia": "sab",
   "hora": "19:30",
   "nota": "",
-  "obs": "",
+  "obs": "Ordem do programa: fala do presidente, apelo e entrega da Bíblia, luzes apagadas, vídeo-relatório, batismo, bênção e votação do relatório pelo presidente da União.",
   "ordem": 2046,
   "prio": true,
   "resp": [
@@ -792,7 +824,7 @@
   "dia": "sab",
   "hora": "19:30",
   "nota": "",
-  "obs": "Respeitar a dinâmica da cerimônia e as autorizações de imagem.",
+  "obs": "No fim do vídeo, a narração chama os participantes ao palco com os candidatos ao batismo. Dois pastores já estarão no tanque. Respeitar a dinâmica da cerimônia e as autorizações de imagem.",
   "ordem": 2047,
   "prio": true,
   "resp": [
@@ -824,7 +856,7 @@
   "dia": "sab",
   "hora": "19:30",
   "nota": "",
-  "obs": "",
+  "obs": "Personagens no programa: Fábio (a amiga da filha com quem estudaram a Bíblia), irmã Antonia e a filha Glória, Emanuele, e irmão Andrade com Suane e o filho Alexandre. Confirmar nomes completos.",
   "ordem": 2049,
   "prio": false,
   "resp": [
@@ -841,7 +873,7 @@
   "dia": "sab",
   "hora": "19:30",
   "nota": "",
-  "obs": "",
+  "obs": "O batismo acontece logo após o vídeo-relatório, com dois pastores no tanque. Depois, os departamentais cantam Mensagem ao Mundo e há a bênção.",
   "ordem": 2050,
   "prio": false,
   "resp": [
@@ -858,7 +890,7 @@
   "dia": "sab",
   "hora": "19:30",
   "nota": "",
-  "obs": "",
+  "obs": "Números do programa: 36.173 membros, 495 congregações, 47 distritos, 5 unidades educacionais com mais de 2 mil alunos, 1 emissora de rádio e 13 igrejas organizadas no período. Confirmar com a secretaria.",
   "ordem": 2051,
   "prio": false,
   "resp": [
@@ -1008,7 +1040,7 @@
   "dia": "dom",
   "hora": "08:00",
   "nota": "",
-  "obs": "",
+  "obs": "Ordem da manhã: louvor, mensagem bíblica do presidente da União, abertura da sessão, relatórios da secretaria e da tesouraria, Comissão Organizadora e seminários do SALT.",
   "ordem": 3060,
   "prio": false,
   "resp": [
@@ -1056,7 +1088,7 @@
   "dia": "dom",
   "hora": "08:00",
   "nota": "",
-  "obs": "",
+  "obs": "Votações da manhã: relatório da secretaria, relatório da tesouraria e composição da Comissão Organizadora e da Comissão de Nomeações.",
   "ordem": 3063,
   "prio": false,
   "resp": [
@@ -1088,7 +1120,7 @@
   "dia": "dom",
   "hora": "08:00",
   "nota": "",
-  "obs": "",
+  "obs": "Os eleitos só saem no fim da tarde. Pela manhã, deixe os modelos dos cards prontos.",
   "ordem": 3065,
   "prio": false,
   "resp": [
@@ -1096,7 +1128,7 @@
   ],
   "status": "pendente",
   "tipo": "Design",
-  "titulo": "Cards informativos, monitoramento e preparação dos materiais dos eleitos",
+  "titulo": "Cards informativos, monitoramento e modelos dos cards dos eleitos",
   "id": "t066"
  },
  {
@@ -1114,106 +1146,6 @@
   "tipo": "Jornalismo",
   "titulo": "Acompanhar decisões, entrevistas e conteúdos jornalísticos",
   "id": "t067"
- },
- {
-  "bloco": "Divulgação dos eleitos",
-  "dia": "dom",
-  "hora": "08:00",
-  "nota": "",
-  "obs": "Fotografia é item obrigatório nos cards.",
-  "ordem": 3067,
-  "prio": true,
-  "resp": [
-   "Kayo"
-  ],
-  "status": "pendente",
-  "tipo": "Fotografia",
-  "titulo": "Fotos oficiais dos eleitos para os cards",
-  "id": "t068"
- },
- {
-  "bloco": "Divulgação dos eleitos",
-  "dia": "dom",
-  "hora": "08:00",
-  "nota": "",
-  "obs": "Nenhum resultado preliminar deve ser divulgado.",
-  "ordem": 3068,
-  "prio": true,
-  "resp": [
-   "Everton",
-   "Daniele"
-  ],
-  "status": "pendente",
-  "tipo": "Jornalismo",
-  "titulo": "Confirmar nomes completos e cargos após resultado oficial",
-  "id": "t069"
- },
- {
-  "bloco": "Divulgação dos eleitos",
-  "dia": "dom",
-  "hora": "08:00",
-  "nota": "",
-  "obs": "",
-  "ordem": 3069,
-  "prio": true,
-  "resp": [
-   "Franciomar",
-   "Jedson"
-  ],
-  "status": "pendente",
-  "tipo": "Design",
-  "titulo": "Produzir cards dos eleitos (foto, nome, cargo, identidade visual)",
-  "id": "t070"
- },
- {
-  "bloco": "Divulgação dos eleitos",
-  "dia": "dom",
-  "hora": "08:00",
-  "nota": "",
-  "obs": "",
-  "ordem": 3070,
-  "prio": false,
-  "resp": [
-   "Everton",
-   "Daniele"
-  ],
-  "status": "pendente",
-  "tipo": "Jornalismo",
-  "titulo": "Preparar legendas dos eleitos",
-  "id": "t071"
- },
- {
-  "bloco": "Divulgação dos eleitos",
-  "dia": "dom",
-  "hora": "08:00",
-  "nota": "",
-  "obs": "",
-  "ordem": 3071,
-  "prio": true,
-  "resp": [
-   "Everton",
-   "Daniele"
-  ],
-  "status": "pendente",
-  "tipo": "Jornalismo",
-  "titulo": "Conferir e aprovar informações dos cards",
-  "id": "t072"
- },
- {
-  "bloco": "Divulgação dos eleitos",
-  "dia": "dom",
-  "hora": "08:00",
-  "nota": "",
-  "obs": "Só após confirmação oficial.",
-  "ordem": 3072,
-  "prio": true,
-  "resp": [
-   "Rillary"
-  ],
-  "status": "pendente",
-  "tipo": "Redes",
-  "titulo": "Publicar cards dos eleitos no Instagram",
-  "id": "t073"
  },
  {
   "bloco": "Almoço e organização · 11h30",
@@ -1373,7 +1305,7 @@
   ],
   "status": "pendente",
   "tipo": "Design",
-  "titulo": "Cards dos eleitos e das decisões; monitorar redes",
+  "titulo": "Cards das decisões da tarde; monitorar redes",
   "id": "t083"
  },
  {
@@ -1397,7 +1329,7 @@
   "dia": "dom",
   "hora": "14:00",
   "nota": "",
-  "obs": "Horários das exibições ainda a confirmar com a organização.",
+  "obs": "Os episódios passam à tarde, entre os seminários do SALT, nesta ordem: ep. 1 Serafim (7min58), ep. 2 Lúcia (7min37), ep. 3 Mário (12min05) e ep. 6 Rute (10min44). Cada homenageado entra com Alinic, assiste ao vídeo, faz duas falas e recebe uma lembrança.",
   "ordem": 3084,
   "prio": true,
   "resp": [
@@ -1413,7 +1345,7 @@
   "dia": "dom",
   "hora": "14:00",
   "nota": "",
-  "obs": "Gravação mobile. Serafim Lamego, Ruth Cei, Mario da Luz Neves e Lucia Pantoja. Vertical, 30 a 45 s.",
+  "obs": "Gravação mobile, vertical, 30 a 45 s. Os homenageados estarão presentes: Serafim, Lúcia, Mário e Rute. Gravar logo depois de cada homenagem.",
   "ordem": 3085,
   "prio": false,
   "resp": [
@@ -1462,7 +1394,7 @@
   "dia": "dom",
   "hora": "14:00",
   "nota": "",
-  "obs": "",
+  "obs": "Fotografar a entrada de cada homenageado com Alinic, as duas falas e a entrega da lembrança.",
   "ordem": 3088,
   "prio": false,
   "resp": [
@@ -1490,11 +1422,111 @@
   "id": "t090"
  },
  {
+  "bloco": "Divulgação dos eleitos · fim da tarde",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "Fotografia é item obrigatório nos cards.",
+  "ordem": 3089.1,
+  "prio": true,
+  "resp": [
+   "Kayo"
+  ],
+  "status": "pendente",
+  "tipo": "Fotografia",
+  "titulo": "Fotos oficiais dos eleitos para os cards",
+  "id": "t068"
+ },
+ {
+  "bloco": "Divulgação dos eleitos · fim da tarde",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "Os nomes saem no relatório da Comissão de Nomeações (item 27 do programa), no fim da tarde, depois de Histórias que Iluminam. Nenhum resultado preliminar deve ser divulgado.",
+  "ordem": 3089.2,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Confirmar nomes completos e cargos após resultado oficial",
+  "id": "t069"
+ },
+ {
+  "bloco": "Divulgação dos eleitos · fim da tarde",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "",
+  "ordem": 3089.3,
+  "prio": true,
+  "resp": [
+   "Franciomar",
+   "Jedson"
+  ],
+  "status": "pendente",
+  "tipo": "Design",
+  "titulo": "Produzir cards dos eleitos (foto, nome, cargo, identidade visual)",
+  "id": "t070"
+ },
+ {
+  "bloco": "Divulgação dos eleitos · fim da tarde",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "",
+  "ordem": 3089.4,
+  "prio": false,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Preparar legendas dos eleitos",
+  "id": "t071"
+ },
+ {
+  "bloco": "Divulgação dos eleitos · fim da tarde",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "",
+  "ordem": 3089.5,
+  "prio": true,
+  "resp": [
+   "Everton",
+   "Daniele"
+  ],
+  "status": "pendente",
+  "tipo": "Jornalismo",
+  "titulo": "Conferir e aprovar informações dos cards",
+  "id": "t072"
+ },
+ {
+  "bloco": "Divulgação dos eleitos · fim da tarde",
+  "dia": "dom",
+  "hora": "",
+  "nota": "",
+  "obs": "Só após confirmação oficial.",
+  "ordem": 3089.6,
+  "prio": true,
+  "resp": [
+   "Rillary"
+  ],
+  "status": "pendente",
+  "tipo": "Redes",
+  "titulo": "Publicar cards dos eleitos no Instagram",
+  "id": "t073"
+ },
+ {
   "bloco": "Encerramento · 17h",
   "dia": "dom",
   "hora": "17:00",
   "nota": "",
-  "obs": "",
+  "obs": "No encerramento: apelo do presidente, entrega das lamparinas pelos pastores e o hino Legado que ilumina, do centenário da ANPa.",
   "ordem": 3090,
   "prio": false,
   "resp": [
@@ -1506,11 +1538,28 @@
   "id": "t091"
  },
  {
+  "id": "n003",
+  "dia": "dom",
+  "bloco": "Encerramento · 17h",
+  "hora": "17:00",
+  "titulo": "Registrar a entrega das lamparinas e o hino Legado que ilumina",
+  "resp": [
+   "Gustavo",
+   "Kayo"
+  ],
+  "tipo": "Captação",
+  "prio": true,
+  "obs": "Momento final da Assembleia: os pastores entregam as lamparinas e todos cantam o hino do centenário da ANPa.",
+  "ordem": 3090.5,
+  "status": "pendente",
+  "nota": ""
+ },
+ {
   "bloco": "Encerramento · 17h",
   "dia": "dom",
   "hora": "17:00",
   "nota": "",
-  "obs": "",
+  "obs": "No encerramento: apelo do presidente, entrega das lamparinas pelos pastores e o hino Legado que ilumina, do centenário da ANPa.",
   "ordem": 3091,
   "prio": false,
   "resp": [

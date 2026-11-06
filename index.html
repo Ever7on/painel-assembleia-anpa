@@ -377,6 +377,15 @@ async function migrarFotografia(){
   if(migrou)return; const alvo=tasks.filter(t=>(t.resp||[]).includes("Fotografia")); if(!alvo.length)return; migrou=true;
   try{const b=db.batch();alvo.forEach(t=>b.update(db.collection("tarefas").doc(t.id),{resp:t.resp.map(r=>r==="Fotografia"?"Kayo":r),obs:limparObs(t.obs)}));await b.commit()}catch(e){migrou=false}
 }
+let PATCH=null,patching=false;
+fetch("atualizacoes.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{PATCH=d;aplicarAtualizacoes()}).catch(()=>{});
+async function aplicarAtualizacoes(){
+  if(!PATCH||!db||!loaded||patching||!tasks.length)return;
+  const rev=PATCH.rev||0,b=db.batch();let n=0;
+  for(const [id,f] of Object.entries(PATCH.set||{})){const t=tasks.find(x=>x.id===id);if(t&&(t.rev||0)<rev){b.update(db.collection("tarefas").doc(id),{...f,rev});n++}}
+  for(const [id,d] of Object.entries(PATCH.add||{})){if(!tasks.find(x=>x.id===id)){b.set(db.collection("tarefas").doc(id),{...d,rev});n++}}
+  if(!n)return;patching=true;try{await b.commit()}catch(e){}patching=false;
+}
 renderSummary();
 async function importar(btn){
   btn.disabled=true;btn.textContent="Importando…";
@@ -400,6 +409,7 @@ document.addEventListener("click",e=>{const b=e.target.closest("[data-import]");
   db.collection("tarefas").orderBy("ordem").onSnapshot({includeMetadataChanges:false},snap=>{
     tasks=snap.docs.map(d=>({id:d.id,...d.data()}));
     if(!snap.metadata.fromCache)migrarFotografia();
+    if(!snap.metadata.fromCache)setTimeout(aplicarAtualizacoes,0);
     if(!snap.metadata.fromCache){loaded=true;clearTimeout(timer)}else if(tasks.length)loaded=true;
     if(loaded&&!tasks.length&&!snap.metadata.fromCache){renderSummary();$("#main").innerHTML=`<div class="state">O banco de dados está vazio. <br><br><button class="btn" data-import>Importar tarefas do cronograma</button></div>`;return}
     if(editing&&document.activeElement&&document.activeElement.closest&&document.activeElement.closest(".ed")){renderSummary();return}

@@ -1,0 +1,136 @@
+{
+ "rev": 1,
+ "set": {
+  "t042": {
+   "obs": "Momentos prévios: músicas instrumentais com paisagens da região no telão. A equipe de TI registra a presença pelo crachá."
+  },
+  "t044": {
+   "obs": "No apelo, o presidente entrega a Bíblia aos administradores da UNB e da ANPa e aos delegados, com foto."
+  },
+  "t046": {
+   "obs": "Durante o relatório do presidente, a história do campo é contada com pessoas representando. O programa pede projeções nesta ordem: mapa da região, floresta e escuridão; mapa da grande região com muitas pessoas; porto, barcos e imagens antigas de Belém; igreja do Cumatê, em Curuçá."
+  },
+  "t047": {
+   "obs": "Ordem do programa: fala do presidente, apelo e entrega da Bíblia, luzes apagadas, vídeo-relatório, batismo, bênção e votação do relatório pelo presidente da União."
+  },
+  "t048": {
+   "obs": "No fim do vídeo, a narração chama os participantes ao palco com os candidatos ao batismo. Dois pastores já estarão no tanque. Respeitar a dinâmica da cerimônia e as autorizações de imagem."
+  },
+  "t050": {
+   "obs": "Personagens no programa: Fábio (a amiga da filha com quem estudaram a Bíblia), irmã Antonia e a filha Glória, Emanuele, e irmão Andrade com Suane e o filho Alexandre. Confirmar nomes completos."
+  },
+  "t051": {
+   "obs": "O batismo acontece logo após o vídeo-relatório, com dois pastores no tanque. Depois, os departamentais cantam Mensagem ao Mundo e há a bênção."
+  },
+  "t052": {
+   "obs": "Números do programa: 36.173 membros, 495 congregações, 47 distritos, 5 unidades educacionais com mais de 2 mil alunos, 1 emissora de rádio e 13 igrejas organizadas no período. Confirmar com a secretaria."
+  },
+  "t061": {
+   "obs": "Ordem da manhã: louvor, mensagem bíblica do presidente da União, abertura da sessão, relatórios da secretaria e da tesouraria, Comissão Organizadora e seminários do SALT."
+  },
+  "t064": {
+   "obs": "Votações da manhã: relatório da secretaria, relatório da tesouraria e composição da Comissão Organizadora e da Comissão de Nomeações."
+  },
+  "t068": {
+   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "hora": "",
+   "ordem": 3089.1
+  },
+  "t069": {
+   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "hora": "",
+   "ordem": 3089.2,
+   "obs": "Os nomes saem no relatório da Comissão de Nomeações (item 27 do programa), no fim da tarde, depois de Histórias que Iluminam. Nenhum resultado preliminar deve ser divulgado."
+  },
+  "t070": {
+   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "hora": "",
+   "ordem": 3089.3
+  },
+  "t071": {
+   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "hora": "",
+   "ordem": 3089.4
+  },
+  "t072": {
+   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "hora": "",
+   "ordem": 3089.5
+  },
+  "t073": {
+   "bloco": "Divulgação dos eleitos · fim da tarde",
+   "hora": "",
+   "ordem": 3089.6
+  },
+  "t066": {
+   "titulo": "Cards informativos, monitoramento e modelos dos cards dos eleitos",
+   "obs": "Os eleitos só saem no fim da tarde. Pela manhã, deixe os modelos dos cards prontos."
+  },
+  "t083": {
+   "titulo": "Cards das decisões da tarde; monitorar redes"
+  },
+  "t085": {
+   "obs": "Os episódios passam à tarde, entre os seminários do SALT, nesta ordem: ep. 1 Serafim (7min58), ep. 2 Lúcia (7min37), ep. 3 Mário (12min05) e ep. 6 Rute (10min44). Cada homenageado entra com Alinic, assiste ao vídeo, faz duas falas e recebe uma lembrança."
+  },
+  "t086": {
+   "obs": "Gravação mobile, vertical, 30 a 45 s. Os homenageados estarão presentes: Serafim, Lúcia, Mário e Rute. Gravar logo depois de cada homenagem."
+  },
+  "t089": {
+   "obs": "Fotografar a entrada de cada homenageado com Alinic, as duas falas e a entrega da lembrança."
+  },
+  "t091": {
+   "obs": "No encerramento: apelo do presidente, entrega das lamparinas pelos pastores e o hino Legado que ilumina, do centenário da ANPa."
+  },
+  "t092": {
+   "obs": "No encerramento: apelo do presidente, entrega das lamparinas pelos pastores e o hino Legado que ilumina, do centenário da ANPa."
+  }
+ },
+ "add": {
+  "n001": {
+   "dia": "sab",
+   "bloco": "Abertura oficial · noite",
+   "hora": "18:30",
+   "titulo": "Exibir paisagens da região com música instrumental no telão",
+   "resp": [
+    "Franciomar"
+   ],
+   "tipo": "Telão",
+   "prio": false,
+   "obs": "Momentos prévios da abertura, enquanto os delegados chegam.",
+   "ordem": 2041.5,
+   "status": "pendente",
+   "nota": ""
+  },
+  "n002": {
+   "dia": "sab",
+   "bloco": "Abertura oficial · noite",
+   "hora": "19:30",
+   "titulo": "Registro fotográfico das 13 igrejas organizadas",
+   "resp": [
+    "Kayo"
+   ],
+   "tipo": "Fotografia",
+   "prio": false,
+   "obs": "Os representantes das 13 igrejas organizadas no período vão à frente quando o secretário chamar o nome de cada igreja.",
+   "ordem": 2043.5,
+   "status": "pendente",
+   "nota": ""
+  },
+  "n003": {
+   "dia": "dom",
+   "bloco": "Encerramento · 17h",
+   "hora": "17:00",
+   "titulo": "Registrar a entrega das lamparinas e o hino Legado que ilumina",
+   "resp": [
+    "Gustavo",
+    "Kayo"
+   ],
+   "tipo": "Captação",
+   "prio": true,
+   "obs": "Momento final da Assembleia: os pastores entregam as lamparinas e todos cantam o hino do centenário da ANPa.",
+   "ordem": 3090.5,
+   "status": "pendente",
+   "nota": ""
+  }
+ }
+}
