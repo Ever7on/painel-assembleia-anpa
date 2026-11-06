@@ -11,6 +11,7 @@ O site é publicado pelo GitHub Pages. Os status, as datas e as notas das tarefa
 | `index.html` | O painel |
 | `firebase-config.js` | Configuração do projeto Firebase |
 | `tarefas.json` | Lista inicial das tarefas, usada só na primeira importação |
+| `detalhes.json` | O "como fazer" de cada tarefa, mostrado no botão Como fazer |
 | `firestore.rules` | Regras de acesso do banco de dados |
 | `fonts/ChettaVissto.ttf` | Fonte da identidade visual |
 

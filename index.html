@@ -166,6 +166,10 @@ button:focus-visible,select:focus-visible,textarea:focus-visible,input:focus-vis
 .prio{font-size:10.5px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:#141414;background:var(--gold);padding:3px 9px;border-radius:99px}
 .obs{font-size:13px;color:var(--muted);max-width:75ch}
 .obs.f{color:var(--warn-ink)}
+.howbtn{font:inherit;font-size:12px;font-weight:700;align-self:flex-start;border:1px solid color-mix(in srgb,var(--gold) 70%,var(--line));background:color-mix(in srgb,var(--gold) 14%,var(--surface));color:var(--ink);border-radius:99px;padding:4px 12px 4px 10px;cursor:pointer;display:inline-flex;gap:6px;align-items:center}
+.howbtn::before{content:"";width:0;height:0;border-left:5px solid currentColor;border-top:4px solid transparent;border-bottom:4px solid transparent;transition:transform .15s}
+.howbtn[aria-expanded="true"]::before{transform:rotate(90deg)}
+.how{font-size:14px;line-height:1.55;background:var(--surface-2);border-left:3px solid var(--gold);border-radius:0 10px 10px 0;padding:10px 12px;max-width:75ch}
 .note{font-size:13px;background:var(--accent-soft);border-radius:10px;padding:8px 10px;white-space:pre-wrap;overflow-wrap:anywhere}
 .right{display:flex;flex-direction:column;gap:8px;align-items:flex-end}
 .sts{display:flex;background:var(--surface-2);border:1px solid var(--line);border-radius:12px;padding:3px;gap:2px}
@@ -285,7 +289,8 @@ const TEAM=[
 const DAYS=[{k:"pre",l:"Pré-evento",d:"10 a 18/11"},{k:"sex",l:"Sexta",d:"20/11"},{k:"sab",l:"Sábado",d:"21/11"},{k:"dom",l:"Domingo",d:"22/11"},{k:"pos",l:"Pós-evento",d:"entregas"}];
 const ST={pendente:"Pendente",andamento:"Andamento",concluido:"Feito",atrasado:"Atrasado"};
 const SF=[["todos","Todas"],["abertas","Em aberto"],["prio","Prioridades"],["atrasado","Atrasadas"]];
-let tasks=[], db=null, canWrite=true, loaded=false, editing=null;
+let tasks=[], db=null, canWrite=true, loaded=false, editing=null, DET={}; const openHow=new Set();
+fetch("detalhes.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{DET=d;if(loaded)renderList()}).catch(()=>{});
 const ls={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
 let day=ls.get("q-day")||defaultDay(), who=ls.get("q-who")||"", sf=ls.get("q-sf")||"todos";
 if(!DAYS.some(d=>d.k===day))day=defaultDay();
@@ -336,6 +341,7 @@ function row(t){
       <div class="tt">${esc(t.titulo)}</div>
       <div class="meta">${t.resp.map(r=>`<span class="who" data-p="${esc(r)}"><i>${esc(ini(r))}</i>${esc(r)}</span>`).join("")}<span class="kind">${esc(t.tipo)}</span>${t.prio?`<span class="prio">Prioridade</span>`:""}</div>
       ${t.obs?`<div class="obs${f?" f":""}">${esc(t.obs)}</div>`:""}
+      ${(t.detalhes||DET[t.id])?`<button class="howbtn" data-how="${t.id}" aria-expanded="${openHow.has(t.id)}">${openHow.has(t.id)?"Ocultar detalhes":"Como fazer"}</button>${openHow.has(t.id)?`<div class="how">${esc(t.detalhes||DET[t.id])}</div>`:""}`:""}
       ${editing===t.id?`<div class="ed"><div class="fields"><label for="dt-${t.id}">Data ou horário<input id="dt-${t.id}" type="text" value="${esc(t.hora)}" placeholder="Ex.: 16/11 ou 19:30"></label><label for="dia-${t.id}">Etapa<select id="dia-${t.id}">${DAYS.map(d=>`<option value="${d.k}"${t.dia===d.k?" selected":""}>${d.l} (${d.d})</option>`).join("")}</select></label></div><label for="note-${t.id}">Nota<textarea id="note-${t.id}" placeholder="Ex.: material entregue ao Gustavo, falta legenda">${esc(t.nota)}</textarea></label><div class="acts"><button class="btn" data-save="${t.id}">Salvar</button><button class="btn ghost" data-cancel>Cancelar</button></div></div>`:(t.nota?`<div class="note">${esc(t.nota)}</div>`:"")}
     </div>
     <div class="right">
@@ -359,6 +365,7 @@ document.addEventListener("click",e=>{
   else if(b.dataset.sf){sf=b.dataset.sf;ls.set("q-sf",sf);render()}
   else if(b.hasAttribute("data-clear")){who="";sf="todos";ls.set("q-who","");ls.set("q-sf",sf);render()}
   else if(b.dataset.st&&b.dataset.v){const t=tasks.find(x=>x.id===b.dataset.st);if(t&&t.status!==b.dataset.v)write(t.id,{status:b.dataset.v})}
+  else if(b.dataset.how){const id=b.dataset.how;openHow.has(id)?openHow.delete(id):openHow.add(id);renderList()}
   else if(b.dataset.edit){editing=b.dataset.edit;renderList();const ta=document.getElementById("dt-"+editing);ta&&ta.focus()}
   else if(b.hasAttribute("data-cancel")){editing=null;renderList()}
   else if(b.dataset.save){const id=b.dataset.save;const v=document.getElementById("note-"+id).value.trim();const h=document.getElementById("dt-"+id).value.trim();const dd=document.getElementById("dia-"+id).value;editing=null;const t=tasks.find(x=>x.id===id);const patch={nota:v,hora:h};if(dd!==t.dia)patch.dia=dd;write(id,patch);if(patch.dia)toast("Tarefa movida para "+DAYS.find(x=>x.k===dd).l)}
