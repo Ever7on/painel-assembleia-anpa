@@ -16,14 +16,11 @@ O site é publicado pelo GitHub Pages. Os status, as datas e as notas das tarefa
 
 ## Como ligar ao Firebase
 
-1. Em [console.firebase.google.com](https://console.firebase.google.com), crie um projeto (ex.: `painel-assembleia-anpa`). O Google Analytics é opcional.
-2. Em **Criação > Authentication > Método de login**, ative o provedor **Anônimo**.
-3. Em **Criação > Firestore Database**, crie o banco no modo de produção (local `southamerica-east1`, em São Paulo).
-4. Ainda no Firestore, na aba **Regras**, cole o conteúdo de `firestore.rules` e clique em **Publicar**.
-5. Em **Configurações do projeto > Geral > Seus apps**, adicione um app da Web e copie o objeto `firebaseConfig`.
-6. Cole esses valores em `firebase-config.js`.
-7. Em **Authentication > Configurações > Domínios autorizados**, adicione `SEU-USUARIO.github.io`.
-8. Abra o painel. Na primeira vez, ele mostra o botão **Importar tarefas do cronograma**, que carrega as tarefas de `tarefas.json`.
+1. Em [console.firebase.google.com](https://console.firebase.google.com), crie um projeto. O Google Analytics pode ficar desligado.
+2. Abra **Firestore Database**, clique em **Criar banco de dados**, escolha o local `southamerica-east1` (São Paulo) e o **modo de produção**.
+3. Na aba **Regras**, cole o conteúdo de `firestore.rules` e clique em **Publicar**.
+4. Em **Configurações do projeto > Seus apps**, adicione um app da Web (ícone `</>`) e copie o objeto `firebaseConfig` para `firebase-config.js`.
+5. Abra o painel e clique em **Importar tarefas do cronograma** (só na primeira vez).
 
 A configuração do Firebase não é uma senha: ela fica visível no site, e o acesso é controlado pelas regras do Firestore.
 

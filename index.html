@@ -8,7 +8,6 @@
 <meta name="theme-color" content="#ffbc00">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
-<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
 <script src="firebase-config.js"></script>
 <style>html{color-scheme:light}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
@@ -392,7 +391,6 @@ document.addEventListener("click",e=>{const b=e.target.closest("[data-import]");
   const cfg=window.FIREBASE_CONFIG;
   if(!window.firebase||!cfg||!cfg.apiKey||cfg.apiKey.startsWith("COLE")){clearTimeout(timer);loaded=true;canWrite=false;$("#main").innerHTML=`<div class="state">O painel ainda não está ligado ao Firebase. Preencha o arquivo <b>firebase-config.js</b> com a configuração do projeto.</div>`;return}
   firebase.initializeApp(cfg);
-  try{await firebase.auth().signInAnonymously()}catch(e){clearTimeout(timer);loaded=true;canWrite=false;$("#main").innerHTML=`<div class="state">Não foi possível entrar no Firebase (${esc(e.code||e.message)}). Confira se o login anônimo está ativado no projeto.</div>`;return}
   db=firebase.firestore();
   db.collection("tarefas").orderBy("ordem").onSnapshot({includeMetadataChanges:false},snap=>{
     tasks=snap.docs.map(d=>({id:d.id,...d.data()}));
