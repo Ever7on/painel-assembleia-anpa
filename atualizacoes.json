@@ -1,5 +1,5 @@
 {
- "rev": 2,
+ "rev": 3,
  "set": {
   "t042": {
    "obs": "Momentos prévios: músicas instrumentais com paisagens da região no telão. A equipe de TI registra a presença pelo crachá."
@@ -85,6 +85,21 @@
   },
   "t092": {
    "obs": "No encerramento: apelo do presidente, entrega das lamparinas pelos pastores e o hino Legado que ilumina, do centenário da ANPa."
+  },
+  "t025": {
+   "titulo": "Selecionar as fotos do simpósio para publicação",
+   "resp": [
+    "Rillary"
+   ],
+   "tipo": "Redes",
+   "obs": "Jedson não estará no simpósio. Não haverá carrossel especial nem cards de frases: publicaremos apenas fotos."
+  },
+  "t028": {
+   "titulo": "Publicar as fotos do simpósio",
+   "obs": "Sem carrossel especial: apenas fotos."
+  },
+  "t016": {
+   "obs": "Carrossel com os principais momentos de sábado."
   }
  },
  "add": {

@@ -319,7 +319,7 @@
   "dia": "sab",
   "hora": "08:00",
   "nota": "",
-  "obs": "É diferente do carrossel especial do simpósio.",
+  "obs": "Carrossel com os principais momentos de sábado.",
   "ordem": 2015,
   "prio": false,
   "resp": [
@@ -416,15 +416,15 @@
   "dia": "sab",
   "hora": "09:00",
   "nota": "",
-  "obs": "",
+  "obs": "Jedson não estará no simpósio. Não haverá carrossel especial nem cards de frases: publicaremos apenas fotos.",
   "ordem": 2024,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Rillary"
   ],
   "status": "pendente",
-  "tipo": "Design",
-  "titulo": "Carrossel especial do simpósio e cards com frases ou reflexões",
+  "tipo": "Redes",
+  "titulo": "Selecionar as fotos do simpósio para publicação",
   "id": "t025"
  },
  {
@@ -467,7 +467,7 @@
   "dia": "sab",
   "hora": "12:00",
   "nota": "",
-  "obs": "Criado por Jedson, conforme definição editorial.",
+  "obs": "Sem carrossel especial: apenas fotos.",
   "ordem": 2027,
   "prio": false,
   "resp": [
@@ -475,7 +475,7 @@
   ],
   "status": "pendente",
   "tipo": "Redes",
-  "titulo": "Publicar carrossel especial do simpósio",
+  "titulo": "Publicar as fotos do simpósio",
   "id": "t028"
  },
  {
