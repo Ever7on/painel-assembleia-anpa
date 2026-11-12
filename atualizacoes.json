@@ -1,5 +1,5 @@
 {
- "rev": 3,
+ "rev": 4,
  "set": {
   "t042": {
    "obs": "Momentos prévios: músicas instrumentais com paisagens da região no telão. A equipe de TI registra a presença pelo crachá."
@@ -100,6 +100,21 @@
   },
   "t016": {
    "obs": "Carrossel com os principais momentos de sábado."
+  },
+  "t027": {
+   "resp": [
+    "Franciomar",
+    "Rillary"
+   ],
+   "obs": "Jedson só chega no sábado a partir das 16h."
+  },
+  "t032": {
+   "resp": [
+    "Rillary",
+    "Everton",
+    "Franciomar"
+   ],
+   "obs": "Jedson só chega no sábado a partir das 16h. Franciomar cuida das artes pendentes."
   }
  },
  "add": {

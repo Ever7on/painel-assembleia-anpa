@@ -449,12 +449,11 @@
   "dia": "sab",
   "hora": "12:00",
   "nota": "",
-  "obs": "",
+  "obs": "Jedson só chega no sábado a partir das 16h.",
   "ordem": 2026,
   "prio": false,
   "resp": [
    "Franciomar",
-   "Jedson",
    "Rillary"
   ],
   "status": "pendente",
@@ -532,13 +531,13 @@
   "dia": "sab",
   "hora": "14:00",
   "nota": "",
-  "obs": "",
+  "obs": "Jedson só chega no sábado a partir das 16h. Franciomar cuida das artes pendentes.",
   "ordem": 2031,
   "prio": false,
   "resp": [
    "Rillary",
-   "Jedson",
-   "Everton"
+   "Everton",
+   "Franciomar"
   ],
   "status": "pendente",
   "tipo": "Redes",
