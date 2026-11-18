@@ -1,11 +1,14 @@
 {
- "rev": 4,
+ "rev": 5,
  "set": {
   "t042": {
    "obs": "Momentos prévios: músicas instrumentais com paisagens da região no telão. A equipe de TI registra a presença pelo crachá."
   },
   "t044": {
-   "obs": "No apelo, o presidente entrega a Bíblia aos administradores da UNB e da ANPa e aos delegados, com foto."
+   "obs": "No apelo, o presidente entrega a Bíblia aos administradores da UNB e da ANPa e aos delegados, com foto.",
+   "resp": [
+    "Fotografia"
+   ]
   },
   "t046": {
    "obs": "Durante o relatório do presidente, a história do campo é contada com pessoas representando. O programa pede projeções nesta ordem: mapa da região, floresta e escuridão; mapa da grande região com muitas pessoas; porto, barcos e imagens antigas de Belém; igreja do Cumatê, em Curuçá."
@@ -35,7 +38,10 @@
    "bloco": "Divulgação dos eleitos · sem horário definido",
    "hora": "",
    "ordem": 3066.1,
-   "obs": "Fotografia é item obrigatório nos cards. Fique de prontidão desde o início das comissões."
+   "obs": "Fotografia é item obrigatório nos cards. Responsável pela fotografia ainda a definir.",
+   "resp": [
+    "Fotografia"
+   ]
   },
   "t069": {
    "bloco": "Divulgação dos eleitos · sem horário definido",
@@ -78,13 +84,19 @@
    "obs": "Gravação mobile, vertical, 30 a 45 s. Os homenageados estarão presentes: Serafim, Lúcia, Mário e Rute. Gravar logo depois de cada homenagem."
   },
   "t089": {
-   "obs": "Fotografar a entrada de cada homenageado com Alinic, as duas falas e a entrega da lembrança."
+   "obs": "Fotografar a entrada de cada homenageado com Alinic, as duas falas e a entrega da lembrança.",
+   "resp": [
+    "Fotografia"
+   ]
   },
   "t091": {
    "obs": "No encerramento: apelo do presidente, entrega das lamparinas pelos pastores e o hino Legado que ilumina, do centenário da ANPa."
   },
   "t092": {
-   "obs": "No encerramento: apelo do presidente, entrega das lamparinas pelos pastores e o hino Legado que ilumina, do centenário da ANPa."
+   "obs": "No encerramento: apelo do presidente, entrega das lamparinas pelos pastores e o hino Legado que ilumina, do centenário da ANPa.",
+   "resp": [
+    "Fotografia"
+   ]
   },
   "t025": {
    "titulo": "Selecionar as fotos do simpósio para publicação",
@@ -115,6 +127,62 @@
     "Franciomar"
    ],
    "obs": "Jedson só chega no sábado a partir das 16h. Franciomar cuida das artes pendentes."
+  },
+  "t003": {
+   "resp": [
+    "Fotografia"
+   ]
+  },
+  "t008": {
+   "resp": [
+    "Fotografia"
+   ]
+  },
+  "t013": {
+   "resp": [
+    "Fotografia"
+   ]
+  },
+  "t022": {
+   "resp": [
+    "Fotografia"
+   ]
+  },
+  "t031": {
+   "resp": [
+    "Fotografia"
+   ]
+  },
+  "n002": {
+   "resp": [
+    "Fotografia"
+   ]
+  },
+  "t049": {
+   "resp": [
+    "Fotografia"
+   ]
+  },
+  "t062": {
+   "resp": [
+    "Fotografia"
+   ]
+  },
+  "t075": {
+   "resp": [
+    "Fotografia"
+   ]
+  },
+  "n003": {
+   "resp": [
+    "Gustavo",
+    "Fotografia"
+   ]
+  },
+  "t107": {
+   "resp": [
+    "Fotografia"
+   ]
   }
  },
  "add": {
@@ -162,6 +230,21 @@
    "obs": "Momento final da Assembleia: os pastores entregam as lamparinas e todos cantam o hino do centenário da ANPa.",
    "ordem": 3090.5,
    "status": "pendente",
+   "nota": ""
+  },
+  "p006": {
+   "dia": "pre",
+   "bloco": "Imprensa",
+   "hora": "17/11",
+   "titulo": "Enviar a pauta para a Revista Novo Tempo",
+   "resp": [
+    "Everton"
+   ],
+   "tipo": "Jornalismo",
+   "prio": false,
+   "obs": "Pauta enviada em 17/11.",
+   "ordem": 30,
+   "status": "concluido",
    "nota": ""
   }
  }

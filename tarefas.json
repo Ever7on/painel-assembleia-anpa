@@ -67,6 +67,22 @@
   "id": "p005"
  },
  {
+  "id": "p006",
+  "dia": "pre",
+  "bloco": "Imprensa",
+  "hora": "17/11",
+  "titulo": "Enviar a pauta para a Revista Novo Tempo",
+  "resp": [
+   "Everton"
+  ],
+  "tipo": "Jornalismo",
+  "prio": false,
+  "obs": "Pauta enviada em 17/11.",
+  "ordem": 30,
+  "status": "concluido",
+  "nota": ""
+ },
+ {
   "bloco": "Chegada e preparação",
   "dia": "sex",
   "hora": "15:00",
@@ -107,7 +123,7 @@
   "ordem": 1002,
   "prio": false,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -192,7 +208,7 @@
   "ordem": 1007,
   "prio": false,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -291,7 +307,7 @@
   "ordem": 2012,
   "prio": false,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -372,7 +388,7 @@
   "ordem": 2021,
   "prio": false,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -519,7 +535,7 @@
   "ordem": 2030,
   "prio": false,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -747,7 +763,7 @@
   "ordem": 2043,
   "prio": false,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -761,7 +777,7 @@
   "hora": "19:30",
   "titulo": "Registro fotográfico das 13 igrejas organizadas",
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "tipo": "Fotografia",
   "prio": false,
@@ -843,7 +859,7 @@
   "ordem": 2048,
   "prio": true,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1059,7 +1075,7 @@
   "ordem": 3061,
   "prio": false,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1151,11 +1167,11 @@
   "dia": "dom",
   "hora": "",
   "nota": "",
-  "obs": "Fotografia é item obrigatório nos cards. Fique de prontidão desde o início das comissões.",
+  "obs": "Fotografia é item obrigatório nos cards. Responsável pela fotografia ainda a definir.",
   "ordem": 3066.1,
   "prio": true,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1271,7 +1287,7 @@
   "ordem": 3074,
   "prio": false,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1497,7 +1513,7 @@
   "ordem": 3088,
   "prio": false,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1544,7 +1560,7 @@
   "titulo": "Registrar a entrega das lamparinas e o hino Legado que ilumina",
   "resp": [
    "Gustavo",
-   "Kayo"
+   "Fotografia"
   ],
   "tipo": "Captação",
   "prio": true,
@@ -1562,7 +1578,7 @@
   "ordem": 3091,
   "prio": false,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1826,7 +1842,7 @@
   "ordem": 4106,
   "prio": false,
   "resp": [
-   "Kayo"
+   "Fotografia"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
