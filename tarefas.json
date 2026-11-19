@@ -1343,7 +1343,7 @@
   "dia": "dom",
   "hora": "13:42",
   "nota": "",
-  "obs": "Gravação mobile, vertical, 30 a 45 s. Horários: Serafim 13h42, Lúcia 14h32, Mário 15h22 e Rute 16h17. Gravar logo depois de cada homenagem.",
+  "obs": "Gravação mobile, vertical, 30 a 45 s, das entrevistas feitas pelo Everton. Horários: Serafim 13h42, Lúcia 14h32, Mário 15h22 e Rute 16h17.",
   "ordem": 3085,
   "prio": false,
   "resp": [
@@ -1351,7 +1351,7 @@
   ],
   "status": "pendente",
   "tipo": "Captação",
-  "titulo": "Gravar entrevistas com homenageados, familiares ou representantes",
+  "titulo": "Gravar as entrevistas com os pioneiros homenageados",
   "id": "t086"
  },
  {
@@ -1359,16 +1359,15 @@
   "dia": "dom",
   "hora": "13:42",
   "nota": "",
-  "obs": "",
+  "obs": "Serafim (13h42), Lúcia (14h32), Mário (15h22) e Rute (16h17). A Rillary grava as entrevistas com o celular.",
   "ordem": 3086,
   "prio": false,
   "resp": [
-   "Daniele",
-   "Rillary"
+   "Everton"
   ],
   "status": "pendente",
   "tipo": "Jornalismo",
-  "titulo": "Conduzir entrevistas e orientar as perguntas",
+  "titulo": "Entrevistar os pioneiros homenageados",
   "id": "t087"
  },
  {

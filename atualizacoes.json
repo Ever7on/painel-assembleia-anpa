@@ -1,5 +1,5 @@
 {
- "rev": 8,
+ "rev": 9,
  "set": {
   "t042": {
    "obs": "Momentos prévios: músicas instrumentais com paisagens da região no telão. A equipe de TI registra a presença pelo crachá."
@@ -100,8 +100,9 @@
    "hora": "13:42"
   },
   "t086": {
-   "obs": "Gravação mobile, vertical, 30 a 45 s. Horários: Serafim 13h42, Lúcia 14h32, Mário 15h22 e Rute 16h17. Gravar logo depois de cada homenagem.",
-   "hora": "13:42"
+   "obs": "Gravação mobile, vertical, 30 a 45 s, das entrevistas feitas pelo Everton. Horários: Serafim 13h42, Lúcia 14h32, Mário 15h22 e Rute 16h17.",
+   "hora": "13:42",
+   "titulo": "Gravar as entrevistas com os pioneiros homenageados"
   },
   "t089": {
    "obs": "Fotografar a entrada de cada homenageado com Alinic, a entrevista e a entrega do presente. Ep. 1 Serafim às 13h42 (7min58), ep. 2 Lúcia às 14h32 (7min37), ep. 3 Mário às 15h22 (12min05) e ep. 4 Rute às 16h17 (10min44).",
@@ -319,7 +320,13 @@
    "bloco": "Tarde: One Voice, planejamento e seminários · 13h"
   },
   "t087": {
-   "hora": "13:42"
+   "hora": "13:42",
+   "titulo": "Entrevistar os pioneiros homenageados",
+   "resp": [
+    "Everton"
+   ],
+   "tipo": "Jornalismo",
+   "obs": "Serafim (13h42), Lúcia (14h32), Mário (15h22) e Rute (16h17). A Rillary grava as entrevistas com o celular."
   },
   "t088": {
    "hora": "13:42"
