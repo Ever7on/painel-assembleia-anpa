@@ -204,6 +204,26 @@ dialog#programa::backdrop{background:rgba(20,16,4,.55);backdrop-filter:blur(3px)
 .prog li::before{content:"";position:absolute;left:0;top:17px;width:8px;height:8px;border-radius:50%;background:#ffbc00}
 .prog b{font-size:15px;font-weight:700}
 .prog span{font-size:14px;color:var(--muted);line-height:1.45}
+.addrow{display:flex;justify-content:center}
+.addbtn{font:inherit;font-size:14px;font-weight:800;font-stretch:110%;background:var(--gold);color:#141414;border:0;border-radius:99px;padding:9px 18px;cursor:pointer;box-shadow:0 6px 16px -8px rgba(160,110,0,.7)}
+.addbtn:hover{filter:brightness(.96)}
+dialog#novaTarefa{width:min(620px,calc(100vw - 24px));max-height:min(90vh,920px);padding:0;border:0;border-radius:24px;background:var(--surface);color:var(--ink);box-shadow:0 30px 80px -20px rgba(0,0,0,.5);overflow:hidden;flex-direction:column}
+dialog#novaTarefa[open]{display:flex}
+dialog#novaTarefa::backdrop{background:rgba(20,16,4,.55);backdrop-filter:blur(3px)}
+.nt-form{overflow-y:auto;padding:18px 24px 24px;display:flex;flex-direction:column;gap:14px}
+.nt-form label,.nt-form fieldset{display:flex;flex-direction:column;gap:6px;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border:0;padding:0;margin:0}
+.nt-form legend{padding:0;margin-bottom:6px}
+.nt-form input[type=text],.nt-form select,.nt-form textarea{font:inherit;font-size:15px;font-weight:400;letter-spacing:0;text-transform:none;color:var(--ink);background:var(--surface-2);border:1px solid var(--line);border-radius:10px;padding:10px 12px;width:100%}
+.nt-form textarea{min-height:70px;resize:vertical}
+.nt-row{display:flex;flex-wrap:wrap;gap:12px}
+.nt-row>*{flex:1 1 180px}
+.nt-people{display:flex;flex-wrap:wrap;gap:8px}
+.nt-people label{flex-direction:row;align-items:center;gap:6px;text-transform:none;letter-spacing:0;font-size:14px;font-weight:600;color:var(--ink);background:var(--surface-2);border:1px solid var(--line);border-radius:99px;padding:6px 12px 6px 8px;cursor:pointer}
+.nt-people label:has(input:checked){background:color-mix(in srgb,var(--pc,var(--gold)) 16%,var(--surface));border-color:var(--pc,var(--gold))}
+.nt-people input{accent-color:var(--pc,var(--gold))}
+.nt-check{flex-direction:row!important;align-items:center;gap:8px!important;text-transform:none!important;letter-spacing:0!important;font-size:14px!important;color:var(--ink)!important}
+.nt-err{color:var(--late);font-size:13px;font-weight:600}
+.nt-acts{display:flex;gap:10px;justify-content:flex-end;padding-top:4px}
 .note{font-size:13px;background:var(--accent-soft);border-radius:10px;padding:8px 10px;white-space:pre-wrap;overflow-wrap:anywhere}
 .right{display:flex;flex-direction:column;gap:8px;align-items:flex-end}
 .sts{display:flex;background:var(--surface-2);border:1px solid var(--line);border-radius:12px;padding:3px;gap:2px}
@@ -291,6 +311,7 @@ dialog#programa::backdrop{background:rgba(20,16,4,.55);backdrop-filter:blur(3px)
     <div class="controls">
       <div class="steps" role="tablist" id="tabs"></div>
       <div class="seg" id="sfilter"></div>
+      <div class="addrow"><button class="addbtn" data-addopen>+ Nova tarefa</button></div>
     </div>
 
     <main id="main"><div class="state">Carregando o espelho de tarefas…</div></main>
@@ -314,6 +335,29 @@ dialog#programa::backdrop{background:rgba(20,16,4,.55);backdrop-filter:blur(3px)
   <div class="pg-head"><div><div class="label">XIX Assembleia Ordinária · À Luz da Palavra</div><h2 id="progTitle">Roteiro da Assembleia</h2></div><button class="pg-x" data-progclose aria-label="Fechar">✕</button></div>
   <div class="pg-tabs" role="tablist"><button role="tab" data-pg="sab" aria-selected="true">Sábado · 21/11</button><button role="tab" data-pg="dom" aria-selected="false">Domingo · 22/11</button></div>
   <div class="pg-body"><section data-pgsec="sab"><ol class="prog"><li><b>17h00 · Credenciamento</b> <span>Secretaria e recepcionistas: entrega de materiais e assinaturas.</span></li><li><b>18h30 · Momentos prévios</b> <span>Músicas instrumentais com paisagens da região no telão. TI registra a presença pelo crachá (BEEP). Delegados entram às 18h30.</span></li><li><b>19h30 · Louvor</b> <span>Trio vocal, com oração inicial. HASD 316 e HASD 54.</span></li><li><b>19h40 · Vinheta e entrada dos administradores</b></li><li><b>19h41 · Boas-vindas</b> <span>Presidente do Campo, com verso bíblico. Saudações do secretário e do tesoureiro.</span></li><li><b>19h44 · Hino inicial</b> <span>Chamada pelo secretário e hino Fortes na Palavra (19h45).</span></li><li><b>19h49 · Oração e música especial</b> <span>Oração do tesoureiro e música especial do trio vocal (19h51).</span></li><li><b>19h56 · Trabalho protocolar</b> <span>Convocação, edital, quórum, instalação da Assembleia, convidados, 13 igrejas organizadas (foto), transmissão e alteração do Regulamento.</span></li><li><b>20h26 · Vídeo narrado: história do Campo</b> <span>Narração do presidente, cerca de 10 min, com as luzes apagadas.</span></li><li><b>20h36 · Fala e entrega da Bíblia</b> <span>Apelo do presidente e entrega da Bíblia aos administradores da UNB e da ANPa e aos delegados.</span></li><li><b>20h39 · Foto oficial com drone</b> <span>Todos de costas para o palco, com a Bíblia.</span></li><li><b>20h42 · Vídeo-relatório</b> <span>20 min, com as luzes apagadas.</span></li><li><b>21h02 · Entrada dos batizandos</b> <span>Entram pelo corredor com a Bíblia e a lamparina, durante a narração.</span></li><li><b>21h05 · Batismo</b> <span>Pastores Josué e Mariano no tanque.</span></li><li><b>21h13 · Departamentais</b> <span>O presidente chama os departamentais ao palco.</span></li><li><b>21h18 · Votação do relatório</b> <span>Presidente da União.</span></li><li><b>21h21 · Oração</b> <span>Secretário executivo da União.</span></li><li><b>21h22 · Orientações para domingo</b> <span>Assentos por distrito, crachá obrigatório, desjejum a partir das 6h, abertura às 8h.</span></li><li><b>21h27 · Despedida e vinheta</b></li></ol></section><section data-pgsec="dom" hidden><ol class="prog"><li><b>08h00 · Louvor</b> <span>Trio vocal. HASD 171 e A Bíblia É.</span></li><li><b>08h10 · Hino inicial e oração</b> <span>Fortes na Palavra. Oração do Pr. João Adilson (8h15) e música especial (8h17).</span></li><li><b>08h22 · Mensagem bíblica</b> <span>Pr. André, presidente da União, seguida de oração e abertura da sessão (8h45).</span></li><li><b>08h46 · Relatório da Secretaria</b> <span>40 min: vídeo do SVA, homenagem aos voluntários e entrada dos jovens do OYIM – Bolívia 2027. Votação conduzida pelo secretário da União.</span></li><li><b>09h26 · Orientações gerais</b> <span>Secretário executivo da União.</span></li><li><b>09h41 · Formação da Comissão Organizadora</b> <span>Escolha de delegados por distrito, pastores e obreiros. Proposta e voto às 10h11, convocação às 10h14.</span></li><li><b>10h22 · Relatório da Tesouraria</b> <span>40 min, com votação.</span></li><li><b>11h02 · Momento de oração</b> <span>Maria Liduina.</span></li><li><b>11h09 · Seminário do SALT</b> <span>Pr. Jean Carlos Zukowski.</span></li><li><b>11h49 · Relatório da Comissão Organizadora</b> <span>Votação da composição da Comissão de Nomeações.</span></li><li><b>12h01 · Convocação da Comissão de Nomeações</b> <span>A comissão começa a trabalhar. Se houver tempo, o One Voice 27 é antecipado.</span></li><li><b>12h04 · Almoço</b> <span>Check-out do hotel.</span></li><li><b>13h00 · Louvor e oração</b> <span>Adoradores 5 Vitória e Adoradores 3 Tua Palavra.</span></li><li><b>13h12 · One Voice 27 – Jesus faz tudo novo</b> <span>UNB, 30 min.</span></li><li><b>13h42 · Histórias que Iluminam 1 · Serafim</b> <span>7min58. Entra com Alinic, entrevista e presente.</span></li><li><b>13h57 · Seminário do SALT</b> <span>Seguido de momento de oração (14h27).</span></li><li><b>14h32 · Histórias que Iluminam 2 · Lúcia</b> <span>7min37. Entra com Alinic, entrevista e presente.</span></li><li><b>14h47 · Planejamento Estratégico</b> <span>UNB e ANPa. Seguido de momento de oração (15h17).</span></li><li><b>15h22 · Histórias que Iluminam 3 · Mário</b> <span>12min05. Entra com Alinic, entrevista e presente.</span></li><li><b>15h42 · Seminário do SALT</b> <span>Seguido de momento de oração (16h12).</span></li><li><b>16h17 · Histórias que Iluminam 4 · Rute</b> <span>10min44. Entra com Alinic, entrevista e presente.</span></li><li><b>16h37 · Relatórios da Comissão de Nomeações</b> <span>Administração, departamentos, serviços e Associação Ministerial; composição da Comissão Diretiva.</span></li><li><b>16h57 · Agradecimentos e celebrações</b> <span>Presidente da União e presidente do Campo.</span></li><li><b>17h02 · Fala e entrega das lamparinas</b> <span>Os pastores distritais entregam as lamparinas.</span></li><li><b>17h07 · Hino final</b> <span>Legado que ilumina, hino do centenário da ANPa.</span></li><li><b>17h12 · Oração</b> <span>Secretário executivo do Campo.</span></li><li><b>17h14 · Declaração de encerramento</b> <span>Presidente do Campo.</span></li></ol></section></div>
+</dialog>
+<dialog id="novaTarefa" aria-labelledby="ntTitle">
+  <div class="pg-head"><div><div class="label">Painel de tarefas</div><h2 id="ntTitle">Nova tarefa</h2></div><button class="pg-x" data-addclose aria-label="Fechar">✕</button></div>
+  <form class="nt-form" id="ntForm" novalidate>
+    <label for="ntTitulo">Tarefa<input type="text" id="ntTitulo" placeholder="Ex.: Gravar depoimento do Pr. André" required></label>
+    <fieldset><legend>Responsáveis</legend><div class="nt-people" id="ntPeople"></div></fieldset>
+    <div class="nt-row">
+      <label for="ntDia">Etapa<select id="ntDia"></select></label>
+      <label for="ntHora">Data ou horário<input type="text" id="ntHora" placeholder="Ex.: 19:30 ou 21/11"></label>
+    </div>
+    <div class="nt-row">
+      <label for="ntBloco">Bloco<select id="ntBloco"></select></label>
+      <label for="ntBlocoNovo" id="ntBlocoNovoWrap" hidden>Nome do novo bloco<input type="text" id="ntBlocoNovo" placeholder="Ex.: Entrevistas extras"></label>
+    </div>
+    <div class="nt-row">
+      <label for="ntTipo">Tipo<select id="ntTipo"><option>Jornalismo</option><option>Captação</option><option>Fotografia</option><option>Redes</option><option>Design</option><option>Telão</option><option>Preparação</option></select></label>
+      <label class="nt-check" for="ntPrio"><input type="checkbox" id="ntPrio"> Marcar como prioridade</label>
+    </div>
+    <label for="ntObs">Observação<textarea id="ntObs" placeholder="Informação curta que aparece no cartão da tarefa"></textarea></label>
+    <label for="ntDet">Como fazer<textarea id="ntDet" placeholder="Passo a passo para a pessoa responsável (opcional)"></textarea></label>
+    <div class="nt-err" id="ntErr" hidden></div>
+    <div class="nt-acts"><button type="button" class="btn ghost" data-addclose>Cancelar</button><button type="submit" class="btn" id="ntSave">Adicionar tarefa</button></div>
+  </form>
 </dialog>
 <div class="toast" id="toast" hidden></div>
 
@@ -432,6 +476,30 @@ document.addEventListener("click",e=>{
   else if(e.target.closest("[data-progclose]")||e.target===pd){pd.close?pd.close():pd.removeAttribute("open")}
   const tb=e.target.closest("[data-pg]");
   if(tb){pd.querySelectorAll("[data-pg]").forEach(b=>b.setAttribute("aria-selected",b===tb));pd.querySelectorAll("[data-pgsec]").forEach(x=>x.hidden=x.dataset.pgsec!==tb.dataset.pg);pd.querySelector(".pg-body").scrollTop=0}
+});
+const NB="__novo__";
+function ntBlocos(){const d=$("#ntDia").value;const bl=[...new Set(tasks.filter(t=>t.dia===d).map(t=>t.bloco))];$("#ntBloco").innerHTML=bl.map(b=>`<option>${esc(b)}</option>`).join("")+`<option value="${NB}">+ Criar novo bloco</option>`;$("#ntBlocoNovoWrap").hidden=$("#ntBloco").value!==NB}
+function abrirNova(){const d=document.getElementById("novaTarefa");$("#ntForm").reset();$("#ntErr").hidden=true;
+  $("#ntPeople").innerHTML=[...TEAM.map(p=>p.n),"Todos"].map(n=>`<label data-p="${n}"><input type="checkbox" value="${n}">${n==="Todos"?"Toda a equipe":n}</label>`).join("");
+  $("#ntDia").innerHTML=DAYS.map(x=>`<option value="${x.k}"${x.k===day?" selected":""}>${x.l} (${x.d})</option>`).join("");ntBlocos();
+  try{d.showModal()}catch(_){d.setAttribute("open","")}setTimeout(()=>$("#ntTitulo").focus(),50)}
+document.addEventListener("change",e=>{if(e.target.id==="ntDia")ntBlocos();if(e.target.id==="ntBloco")$("#ntBlocoNovoWrap").hidden=e.target.value!==NB});
+document.addEventListener("click",e=>{const d=document.getElementById("novaTarefa");if(e.target.closest("[data-addopen]")){if(!db||!canWrite){toast("Sem conexão com o banco de dados");return}abrirNova()}else if(e.target.closest("[data-addclose]")||e.target===d){d.close?d.close():d.removeAttribute("open")}});
+document.addEventListener("submit",async e=>{if(e.target.id!=="ntForm")return;e.preventDefault();
+  const err=m=>{$("#ntErr").textContent=m;$("#ntErr").hidden=false};
+  const titulo=$("#ntTitulo").value.trim();const resp=[...document.querySelectorAll("#ntPeople input:checked")].map(i=>i.value);
+  const dia=$("#ntDia").value;let bloco=$("#ntBloco").value;if(bloco===NB)bloco=$("#ntBlocoNovo").value.trim();
+  if(!titulo)return err("Escreva o nome da tarefa.");if(!resp.length)return err("Escolha pelo menos um responsável.");if(!bloco)return err("Dê um nome para o novo bloco.");
+  const doDia=allTasks.filter(t=>t.dia===dia);const base={pre:0,sex:1000,sab:2000,dom:3000,pos:4000}[dia]||5000;
+  const doBloco=doDia.filter(t=>t.bloco===bloco);
+  const ordem=doBloco.length?Math.max(...doBloco.map(t=>t.ordem||0))+0.001:(doDia.length?Math.max(...doDia.map(t=>t.ordem||0)):base)+1;
+  const doc={dia,bloco,hora:$("#ntHora").value.trim(),titulo,resp,tipo:$("#ntTipo").value,prio:$("#ntPrio").checked,obs:$("#ntObs").value.trim(),detalhes:$("#ntDet").value.trim(),ordem,status:"pendente",nota:"",rev:(PATCH&&PATCH.rev)||0,criada:new Date().toISOString()};
+  const id="u"+Date.now().toString(36)+Math.random().toString(36).slice(2,6);
+  $("#ntSave").disabled=true;
+  try{await db.collection("tarefas").doc(id).set(doc);const d=document.getElementById("novaTarefa");d.close?d.close():d.removeAttribute("open");
+    if(day!==dia){day=dia;ls.set("q-day",day)}render();toast("Tarefa adicionada para toda a equipe")}
+  catch(x){err("Não foi possível salvar. Confira a conexão e tente de novo.")}
+  $("#ntSave").disabled=false;
 });
 renderSummary();
 async function importar(btn){
