@@ -1,5 +1,5 @@
 {
- "rev": 5,
+ "rev": 6,
  "set": {
   "t042": {
    "obs": "Momentos prévios: músicas instrumentais com paisagens da região no telão. A equipe de TI registra a presença pelo crachá."
@@ -7,7 +7,7 @@
   "t044": {
    "obs": "No apelo, o presidente entrega a Bíblia aos administradores da UNB e da ANPa e aos delegados, com foto.",
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t046": {
@@ -38,9 +38,9 @@
    "bloco": "Divulgação dos eleitos · sem horário definido",
    "hora": "",
    "ordem": 3066.1,
-   "obs": "Fotografia é item obrigatório nos cards. Responsável pela fotografia ainda a definir.",
+   "obs": "Fotografia é item obrigatório nos cards. Fique de prontidão desde o início das comissões.",
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t069": {
@@ -52,7 +52,10 @@
   "t070": {
    "bloco": "Divulgação dos eleitos · sem horário definido",
    "hora": "",
-   "ordem": 3066.3
+   "ordem": 3066.3,
+   "resp": [
+    "Franciomar"
+   ]
   },
   "t071": {
    "bloco": "Divulgação dos eleitos · sem horário definido",
@@ -72,10 +75,16 @@
   },
   "t066": {
    "titulo": "Cards informativos, monitoramento e modelos dos cards dos eleitos",
-   "obs": "O horário dos eleitos não está definido. Deixe os modelos dos cards prontos antes do início das comissões."
+   "obs": "O horário dos eleitos não está definido. Deixe os modelos dos cards prontos antes do início das comissões.",
+   "resp": [
+    "Franciomar"
+   ]
   },
   "t083": {
-   "titulo": "Cards das decisões da tarde; monitorar redes"
+   "titulo": "Cards das decisões da tarde; monitorar redes",
+   "resp": [
+    "Franciomar"
+   ]
   },
   "t085": {
    "obs": "Os episódios passam à tarde, entre os seminários do SALT, nesta ordem: ep. 1 Serafim (7min58), ep. 2 Lúcia (7min37), ep. 3 Mário (12min05) e ep. 6 Rute (10min44). Cada homenageado entra com Alinic, assiste ao vídeo, faz duas falas e recebe uma lembrança."
@@ -86,7 +95,7 @@
   "t089": {
    "obs": "Fotografar a entrada de cada homenageado com Alinic, as duas falas e a entrega da lembrança.",
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t091": {
@@ -95,7 +104,7 @@
   "t092": {
    "obs": "No encerramento: apelo do presidente, entrega das lamparinas pelos pastores e o hino Legado que ilumina, do centenário da ANPa.",
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t025": {
@@ -104,7 +113,7 @@
     "Rillary"
    ],
    "tipo": "Redes",
-   "obs": "Jedson não estará no simpósio. Não haverá carrossel especial nem cards de frases: publicaremos apenas fotos."
+   "obs": "Não haverá carrossel especial nem cards de frases: publicaremos apenas fotos."
   },
   "t028": {
    "titulo": "Publicar as fotos do simpósio",
@@ -118,7 +127,7 @@
     "Franciomar",
     "Rillary"
    ],
-   "obs": "Jedson só chega no sábado a partir das 16h."
+   "obs": ""
   },
   "t032": {
    "resp": [
@@ -126,62 +135,105 @@
     "Everton",
     "Franciomar"
    ],
-   "obs": "Jedson só chega no sábado a partir das 16h. Franciomar cuida das artes pendentes."
+   "obs": "Franciomar cuida das artes pendentes."
   },
   "t003": {
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t008": {
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t013": {
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t022": {
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t031": {
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "n002": {
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t049": {
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t062": {
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t075": {
    "resp": [
-    "Fotografia"
+    "Jedson"
    ]
   },
   "n003": {
    "resp": [
     "Gustavo",
-    "Fotografia"
+    "Jedson"
    ]
   },
   "t107": {
    "resp": [
-    "Fotografia"
+    "Jedson"
+   ]
+  },
+  "t004": {
+   "resp": [
+    "Gustavo",
+    "Franciomar"
+   ]
+  },
+  "t010": {
+   "resp": [
+    "Rillary",
+    "Franciomar"
+   ]
+  },
+  "t040": {
+   "resp": [
+    "Franciomar"
+   ]
+  },
+  "t055": {
+   "resp": [
+    "Franciomar"
+   ]
+  },
+  "t078": {
+   "resp": [
+    "Franciomar"
+   ]
+  },
+  "t090": {
+   "resp": [
+    "Franciomar"
+   ]
+  },
+  "t096": {
+   "resp": [
+    "Franciomar"
+   ]
+  },
+  "t098": {
+   "resp": [
+    "Franciomar",
+    "Rillary"
    ]
   }
  },

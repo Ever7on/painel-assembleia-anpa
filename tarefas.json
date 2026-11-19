@@ -123,7 +123,7 @@
   "ordem": 1002,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -140,8 +140,7 @@
   "prio": false,
   "resp": [
    "Gustavo",
-   "Franciomar",
-   "Jedson"
+   "Franciomar"
   ],
   "status": "pendente",
   "tipo": "Preparação",
@@ -208,7 +207,7 @@
   "ordem": 1007,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -242,7 +241,7 @@
   "prio": false,
   "resp": [
    "Rillary",
-   "Jedson"
+   "Franciomar"
   ],
   "status": "pendente",
   "tipo": "Redes",
@@ -307,7 +306,7 @@
   "ordem": 2012,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -388,7 +387,7 @@
   "ordem": 2021,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -432,7 +431,7 @@
   "dia": "sab",
   "hora": "09:00",
   "nota": "",
-  "obs": "Jedson não estará no simpósio. Não haverá carrossel especial nem cards de frases: publicaremos apenas fotos.",
+  "obs": "Não haverá carrossel especial nem cards de frases: publicaremos apenas fotos.",
   "ordem": 2024,
   "prio": false,
   "resp": [
@@ -465,7 +464,7 @@
   "dia": "sab",
   "hora": "12:00",
   "nota": "",
-  "obs": "Jedson só chega no sábado a partir das 16h.",
+  "obs": "",
   "ordem": 2026,
   "prio": false,
   "resp": [
@@ -535,7 +534,7 @@
   "ordem": 2030,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -547,7 +546,7 @@
   "dia": "sab",
   "hora": "14:00",
   "nota": "",
-  "obs": "Jedson só chega no sábado a partir das 16h. Franciomar cuida das artes pendentes.",
+  "obs": "Franciomar cuida das artes pendentes.",
   "ordem": 2031,
   "prio": false,
   "resp": [
@@ -683,7 +682,7 @@
   "ordem": 2039,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Franciomar"
   ],
   "status": "pendente",
   "tipo": "Redes",
@@ -763,7 +762,7 @@
   "ordem": 2043,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -777,7 +776,7 @@
   "hora": "19:30",
   "titulo": "Registro fotográfico das 13 igrejas organizadas",
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "tipo": "Fotografia",
   "prio": false,
@@ -859,7 +858,7 @@
   "ordem": 2048,
   "prio": true,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -958,7 +957,7 @@
   "ordem": 2054,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Franciomar"
   ],
   "status": "pendente",
   "tipo": "Redes",
@@ -1075,7 +1074,7 @@
   "ordem": 3061,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1139,7 +1138,7 @@
   "ordem": 3065,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Franciomar"
   ],
   "status": "pendente",
   "tipo": "Design",
@@ -1167,11 +1166,11 @@
   "dia": "dom",
   "hora": "",
   "nota": "",
-  "obs": "Fotografia é item obrigatório nos cards. Responsável pela fotografia ainda a definir.",
+  "obs": "Fotografia é item obrigatório nos cards. Fique de prontidão desde o início das comissões.",
   "ordem": 3066.1,
   "prio": true,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1204,8 +1203,7 @@
   "ordem": 3066.3,
   "prio": true,
   "resp": [
-   "Franciomar",
-   "Jedson"
+   "Franciomar"
   ],
   "status": "pendente",
   "tipo": "Design",
@@ -1287,7 +1285,7 @@
   "ordem": 3074,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1336,7 +1334,7 @@
   "ordem": 3077,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Franciomar"
   ],
   "status": "pendente",
   "tipo": "Design",
@@ -1416,7 +1414,7 @@
   "ordem": 3082,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Franciomar"
   ],
   "status": "pendente",
   "tipo": "Design",
@@ -1513,7 +1511,7 @@
   "ordem": 3088,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1529,7 +1527,7 @@
   "ordem": 3089,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Franciomar"
   ],
   "status": "pendente",
   "tipo": "Redes",
@@ -1560,7 +1558,7 @@
   "titulo": "Registrar a entrega das lamparinas e o hino Legado que ilumina",
   "resp": [
    "Gustavo",
-   "Fotografia"
+   "Jedson"
   ],
   "tipo": "Captação",
   "prio": true,
@@ -1578,7 +1576,7 @@
   "ordem": 3091,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1642,7 +1640,7 @@
   "ordem": 3095,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Franciomar"
   ],
   "status": "pendente",
   "tipo": "Design",
@@ -1675,7 +1673,6 @@
   "prio": false,
   "resp": [
    "Franciomar",
-   "Jedson",
    "Rillary"
   ],
   "status": "pendente",
@@ -1842,7 +1839,7 @@
   "ordem": 4106,
   "prio": false,
   "resp": [
-   "Fotografia"
+   "Jedson"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
