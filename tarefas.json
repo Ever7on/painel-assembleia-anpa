@@ -838,7 +838,7 @@
   "dia": "sab",
   "hora": "20:26",
   "nota": "",
-  "obs": "Números do campo: 36.173 membros, 495 congregações, 47 distritos e 13 igrejas organizadas no período. A votação do relatório é às 21h18, com o presidente e o secretário da União. Confirmar com a secretaria.",
+  "obs": "Números do campo: 36.173 membros, 495 congregações, 47 distritos e 13 igrejas organizadas no período. A votação do relatório é às 21h18, conduzida pelo presidente da União. Confirmar com a secretaria.",
   "ordem": 2051,
   "prio": false,
   "resp": [
@@ -988,7 +988,7 @@
   "dia": "dom",
   "hora": "08:00",
   "nota": "",
-  "obs": "Programa: louvor (8h), mensagem bíblica do Pr. André (8h22), relatório da Secretaria (8h46), Comissão Organizadora (9h41), relatório da Tesouraria (10h22) e seminário do SALT (11h09).",
+  "obs": "Programa: louvor (8h), mensagem bíblica do Pr. André (8h22), relatório da Secretaria com SVA e jovens do OYIM (8h46), Comissão Organizadora (9h41), relatório da Tesouraria (10h22) e seminário do SALT (11h09).",
   "ordem": 3060,
   "prio": false,
   "resp": [
@@ -1059,8 +1059,25 @@
   ],
   "tipo": "Captação",
   "prio": false,
-  "obs": "No relatório da Secretaria, três voluntários do SVA recebem presentes: o casal, o jovem e os pais da Karol, voluntária na Itália. Cada um tem um vídeo de 1min30.",
+  "obs": "No relatório da Secretaria, passa o vídeo do SVA \"Fortalecendo as novas gerações, escrevendo novas páginas da história\". Três voluntários recebem presentes: o casal, o jovem e os pais da Karol, voluntária na Itália. Cada um tem um vídeo de 1min30.",
   "ordem": 3063.5,
+  "status": "pendente",
+  "nota": ""
+ },
+ {
+  "id": "n007",
+  "dia": "dom",
+  "bloco": "Abertura, votações e plenárias · 08h",
+  "hora": "08:46",
+  "titulo": "Registrar a entrada dos jovens do OYIM – Bolívia 2027",
+  "resp": [
+   "Gustavo",
+   "Jedson"
+  ],
+  "tipo": "Captação",
+  "prio": false,
+  "obs": "No relatório da Secretaria, os jovens do plano OYIM entram do fundo do auditório com as bandeiras do OYIM e da Bolívia.",
+  "ordem": 3063.6,
   "status": "pendente",
   "nota": ""
  },
@@ -1085,7 +1102,7 @@
   "dia": "dom",
   "hora": "08:00",
   "nota": "",
-  "obs": "Os eleitos estão previstos para as 16h27. Deixe os modelos dos cards prontos antes disso.",
+  "obs": "Os eleitos estão previstos para as 16h37. Deixe os modelos dos cards prontos antes disso.",
   "ordem": 3065,
   "prio": false,
   "resp": [
@@ -1194,11 +1211,27 @@
   "id": "t078"
  },
  {
-  "bloco": "Tarde: regulamento e seminários · 13h",
+  "id": "n006",
+  "dia": "dom",
+  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
+  "hora": "13:12",
+  "titulo": "Cobertura jornalística do One Voice 27 – Jesus faz tudo novo",
+  "resp": [
+   "Everton"
+  ],
+  "tipo": "Jornalismo",
+  "prio": false,
+  "obs": "Apresentação da UNB às 13h12, com 30 min. Pode ser antecipada para antes do almoço, logo depois da convocação da Comissão de Nomeações, se houver tempo.",
+  "ordem": 3077.5,
+  "status": "pendente",
+  "nota": ""
+ },
+ {
+  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
-  "obs": "13h12: proposta de alteração do Regulamento Interno. Seminários do SALT às 13h37, 14h27 e 15h32.",
+  "obs": "13h12: One Voice 27 – Jesus faz tudo novo (UNB). 14h47: Planejamento Estratégico (UNB e ANPa). Seminários do SALT às 13h57 e 15h42.",
   "ordem": 3078,
   "prio": false,
   "resp": [
@@ -1206,11 +1239,11 @@
   ],
   "status": "pendente",
   "tipo": "Captação",
-  "titulo": "Registrar a proposta do Regulamento Interno e os seminários do SALT",
+  "titulo": "Registrar o One Voice 27, o Planejamento Estratégico e os seminários do SALT",
   "id": "t079"
  },
  {
-  "bloco": "Tarde: regulamento e seminários · 13h",
+  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
@@ -1226,7 +1259,7 @@
   "id": "t080"
  },
  {
-  "bloco": "Tarde: regulamento e seminários · 13h",
+  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
@@ -1242,7 +1275,7 @@
   "id": "t081"
  },
  {
-  "bloco": "Tarde: regulamento e seminários · 13h",
+  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
@@ -1258,7 +1291,7 @@
   "id": "t082"
  },
  {
-  "bloco": "Tarde: regulamento e seminários · 13h",
+  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
@@ -1274,7 +1307,7 @@
   "id": "t083"
  },
  {
-  "bloco": "Tarde: regulamento e seminários · 13h",
+  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
@@ -1292,9 +1325,9 @@
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:22",
+  "hora": "13:42",
   "nota": "",
-  "obs": "Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h12 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44). Cada homenageado entra com Alinic e se senta quando o vídeo começa. Depois, há entrevista e um presente.",
+  "obs": "Ep. 1 Serafim às 13h42 (7min58), ep. 2 Lúcia às 14h32 (7min37), ep. 3 Mário às 15h22 (12min05) e ep. 4 Rute às 16h17 (10min44). Cada homenageado entra com Alinic e se senta quando o vídeo começa. Depois, há entrevista e um presente.",
   "ordem": 3084,
   "prio": true,
   "resp": [
@@ -1308,9 +1341,9 @@
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:22",
+  "hora": "13:42",
   "nota": "",
-  "obs": "Gravação mobile, vertical, 30 a 45 s. Horários: Serafim 13h22, Lúcia 14h12, Mário 15h12 e Rute 16h07. Gravar logo depois de cada homenagem.",
+  "obs": "Gravação mobile, vertical, 30 a 45 s. Horários: Serafim 13h42, Lúcia 14h32, Mário 15h22 e Rute 16h17. Gravar logo depois de cada homenagem.",
   "ordem": 3085,
   "prio": false,
   "resp": [
@@ -1324,7 +1357,7 @@
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:22",
+  "hora": "13:42",
   "nota": "",
   "obs": "",
   "ordem": 3086,
@@ -1341,7 +1374,7 @@
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:22",
+  "hora": "13:42",
   "nota": "",
   "obs": "",
   "ordem": 3087,
@@ -1357,9 +1390,9 @@
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:22",
+  "hora": "13:42",
   "nota": "",
-  "obs": "Fotografar a entrada de cada homenageado com Alinic, a entrevista e a entrega do presente. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h12 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44).",
+  "obs": "Fotografar a entrada de cada homenageado com Alinic, a entrevista e a entrega do presente. Ep. 1 Serafim às 13h42 (7min58), ep. 2 Lúcia às 14h32 (7min37), ep. 3 Mário às 15h22 (12min05) e ep. 4 Rute às 16h17 (10min44).",
   "ordem": 3088,
   "prio": false,
   "resp": [
@@ -1373,7 +1406,7 @@
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:22",
+  "hora": "13:42",
   "nota": "",
   "obs": "",
   "ordem": 3089,
@@ -1387,11 +1420,11 @@
   "id": "t090"
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h27",
+  "bloco": "Divulgação dos eleitos · previsto 16h37",
   "dia": "dom",
-  "hora": "16:27",
+  "hora": "16:37",
   "nota": "",
-  "obs": "Fotografia é item obrigatório nos cards. Relatório da Comissão de Nomeações previsto para as 16h27.",
+  "obs": "Fotografia é item obrigatório nos cards. Relatório da Comissão de Nomeações previsto para as 16h37.",
   "ordem": 3089.1,
   "prio": true,
   "resp": [
@@ -1403,11 +1436,11 @@
   "id": "t068"
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h27",
+  "bloco": "Divulgação dos eleitos · previsto 16h37",
   "dia": "dom",
-  "hora": "16:27",
+  "hora": "16:37",
   "nota": "",
-  "obs": "A Comissão de Nomeações começa às 12h01 e apresenta os nomes às 16h27, segundo o roteiro. O horário pode mudar. Nenhum resultado preliminar deve ser divulgado.",
+  "obs": "A Comissão de Nomeações começa às 12h01 e apresenta os nomes às 16h37, segundo o roteiro. O horário pode mudar. Nenhum resultado preliminar deve ser divulgado.",
   "ordem": 3089.2,
   "prio": true,
   "resp": [
@@ -1420,9 +1453,9 @@
   "id": "t069"
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h27",
+  "bloco": "Divulgação dos eleitos · previsto 16h37",
   "dia": "dom",
-  "hora": "16:27",
+  "hora": "16:37",
   "nota": "",
   "obs": "",
   "ordem": 3089.3,
@@ -1436,9 +1469,9 @@
   "id": "t070"
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h27",
+  "bloco": "Divulgação dos eleitos · previsto 16h37",
   "dia": "dom",
-  "hora": "16:27",
+  "hora": "16:37",
   "nota": "",
   "obs": "",
   "ordem": 3089.4,
@@ -1453,9 +1486,9 @@
   "id": "t071"
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h27",
+  "bloco": "Divulgação dos eleitos · previsto 16h37",
   "dia": "dom",
-  "hora": "16:27",
+  "hora": "16:37",
   "nota": "",
   "obs": "",
   "ordem": 3089.5,
@@ -1470,9 +1503,9 @@
   "id": "t072"
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h27",
+  "bloco": "Divulgação dos eleitos · previsto 16h37",
   "dia": "dom",
-  "hora": "16:27",
+  "hora": "16:37",
   "nota": "",
   "obs": "Só após confirmação oficial.",
   "ordem": 3089.6,
@@ -1486,11 +1519,11 @@
   "id": "t073"
  },
  {
-  "bloco": "Encerramento · 16h47",
+  "bloco": "Encerramento · 16h57",
   "dia": "dom",
-  "hora": "16:47",
+  "hora": "16:57",
   "nota": "",
-  "obs": "Agradecimentos (16h47), entrega das lamparinas (16h52), hino Legado que ilumina (16h57) e declaração de encerramento (17h04).",
+  "obs": "Agradecimentos (16h57), entrega das lamparinas (17h02), hino Legado que ilumina (17h07) e declaração de encerramento (17h14).",
   "ordem": 3090,
   "prio": false,
   "resp": [
@@ -1504,8 +1537,8 @@
  {
   "id": "n003",
   "dia": "dom",
-  "bloco": "Encerramento · 16h47",
-  "hora": "16:52",
+  "bloco": "Encerramento · 16h57",
+  "hora": "17:02",
   "titulo": "Registrar a entrega das lamparinas e o hino Legado que ilumina",
   "resp": [
    "Gustavo",
@@ -1513,17 +1546,17 @@
   ],
   "tipo": "Captação",
   "prio": true,
-  "obs": "16h52: fala do presidente e entrega das lamparinas pelos pastores distritais. 16h57: hino Legado que ilumina. 17h04: declaração de encerramento.",
+  "obs": "17h02: fala do presidente e entrega das lamparinas pelos pastores distritais. 17h07: hino Legado que ilumina. 17h14: declaração de encerramento.",
   "ordem": 3090.5,
   "status": "pendente",
   "nota": ""
  },
  {
-  "bloco": "Encerramento · 16h47",
+  "bloco": "Encerramento · 16h57",
   "dia": "dom",
-  "hora": "16:47",
+  "hora": "16:57",
   "nota": "",
-  "obs": "Agradecimentos (16h47), entrega das lamparinas (16h52), hino Legado que ilumina (16h57) e declaração de encerramento (17h04).",
+  "obs": "Agradecimentos (16h57), entrega das lamparinas (17h02), hino Legado que ilumina (17h07) e declaração de encerramento (17h14).",
   "ordem": 3091,
   "prio": false,
   "resp": [
@@ -1535,9 +1568,9 @@
   "id": "t092"
  },
  {
-  "bloco": "Encerramento · 16h47",
+  "bloco": "Encerramento · 16h57",
   "dia": "dom",
-  "hora": "16:47",
+  "hora": "16:57",
   "nota": "",
   "obs": "",
   "ordem": 3092,
@@ -1551,9 +1584,9 @@
   "id": "t093"
  },
  {
-  "bloco": "Encerramento · 16h47",
+  "bloco": "Encerramento · 16h57",
   "dia": "dom",
-  "hora": "16:47",
+  "hora": "16:57",
   "nota": "",
   "obs": "",
   "ordem": 3093,
@@ -1567,9 +1600,9 @@
   "id": "t094"
  },
  {
-  "bloco": "Encerramento · 16h47",
+  "bloco": "Encerramento · 16h57",
   "dia": "dom",
-  "hora": "16:47",
+  "hora": "16:57",
   "nota": "",
   "obs": "",
   "ordem": 3094,
@@ -1583,9 +1616,9 @@
   "id": "t095"
  },
  {
-  "bloco": "Encerramento · 16h47",
+  "bloco": "Encerramento · 16h57",
   "dia": "dom",
-  "hora": "16:47",
+  "hora": "16:57",
   "nota": "",
   "obs": "",
   "ordem": 3095,
@@ -1599,9 +1632,9 @@
   "id": "t096"
  },
  {
-  "bloco": "Encerramento · 16h47",
+  "bloco": "Encerramento · 16h57",
   "dia": "dom",
-  "hora": "16:47",
+  "hora": "16:57",
   "nota": "",
   "obs": "Base para a matéria ASN de fim de evento.",
   "ordem": 3096,
