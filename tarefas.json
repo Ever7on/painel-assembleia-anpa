@@ -1102,7 +1102,7 @@
   "dia": "dom",
   "hora": "08:00",
   "nota": "",
-  "obs": "Os eleitos estão previstos para as 16h37. Deixe os modelos dos cards prontos antes disso.",
+  "obs": "Os eleitos estão previstos para as 16h27. Deixe os modelos dos cards prontos antes disso.",
   "ordem": 3065,
   "prio": false,
   "resp": [
@@ -1213,25 +1213,26 @@
  {
   "id": "n006",
   "dia": "dom",
-  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
-  "hora": "13:12",
+  "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h",
+  "hora": "15:32",
   "titulo": "Cobertura jornalística do One Voice 27 – Jesus faz tudo novo",
   "resp": [
    "Everton"
   ],
   "tipo": "Jornalismo",
   "prio": false,
-  "obs": "Apresentação da UNB às 13h12, com 30 min. Pode ser antecipada para antes do almoço, logo depois da convocação da Comissão de Nomeações, se houver tempo.",
+  "obs": "Apresentação da UNB às 15h32, com 30 min, no auditório geral. Pode ser antecipada para antes do almoço, logo depois da convocação da Comissão de Nomeações, se houver tempo.",
   "ordem": 3077.5,
   "status": "pendente",
-  "nota": ""
+  "nota": "",
+  "detalhes": "Acompanhe a apresentação do One Voice 27 – Jesus faz tudo novo, feita pela UNB às 15h32, com 30 min. Anote os principais pontos e colete falas para o material sobre o OneVoice27. Atenção: no mesmo intervalo da tarde você também conduz as entrevistas das Histórias que Iluminam."
  },
  {
-  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
+  "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
-  "obs": "13h12: One Voice 27 – Jesus faz tudo novo (UNB). 14h47: Planejamento Estratégico (UNB e ANPa). Seminários do SALT às 13h57 e 15h42.",
+  "obs": "13h12: alterações no Regulamento. 13h37: seminário do SALT (40 min). 14h37: Planejamento Estratégico (UNB e ANPa). 15h32: One Voice 27 – Jesus faz tudo novo (UNB).",
   "ordem": 3078,
   "prio": false,
   "resp": [
@@ -1239,11 +1240,12 @@
   ],
   "status": "pendente",
   "tipo": "Captação",
-  "titulo": "Registrar o One Voice 27, o Planejamento Estratégico e os seminários do SALT",
-  "id": "t079"
+  "titulo": "Registrar o regulamento, o seminário do SALT, o Planejamento Estratégico e o One Voice 27",
+  "id": "t079",
+  "detalhes": "Grave os momentos da tarde: as alterações no Regulamento, apresentadas pelo secretário executivo às 13h12; o seminário do Pr. Jean Carlos Zukowski (SALT) às 13h37, com 40 min; o Planejamento Estratégico da UNB e da ANPa às 14h37; e o One Voice 27 – Jesus faz tudo novo, da UNB, às 15h32. Capte bom áudio das falas."
  },
  {
-  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
+  "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
@@ -1259,7 +1261,7 @@
   "id": "t080"
  },
  {
-  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
+  "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
@@ -1275,7 +1277,7 @@
   "id": "t081"
  },
  {
-  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
+  "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
@@ -1291,7 +1293,7 @@
   "id": "t082"
  },
  {
-  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
+  "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
@@ -1307,7 +1309,7 @@
   "id": "t083"
  },
  {
-  "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
+  "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h",
   "dia": "dom",
   "hora": "13:00",
   "nota": "",
@@ -1325,9 +1327,9 @@
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:42",
+  "hora": "13:22",
   "nota": "",
-  "obs": "Ep. 1 Serafim às 13h42 (7min58), ep. 2 Lúcia às 14h32 (7min37), ep. 3 Mário às 15h22 (12min05) e ep. 4 Rute às 16h17 (10min44). Cada homenageado entra com Alinic e se senta quando o vídeo começa. Depois, há entrevista e um presente.",
+  "obs": "Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44). O Everton conduz a entrevista: ele e o homenageado se sentam quando o vídeo começa. Depois, há entrevista e um presente.",
   "ordem": 3084,
   "prio": true,
   "resp": [
@@ -1336,14 +1338,15 @@
   "status": "pendente",
   "tipo": "Telão",
   "titulo": "Operar os 4 episódios no telão",
-  "id": "t085"
+  "id": "t085",
+  "detalhes": "Os 4 episódios passam à tarde, intercalados com os outros momentos. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44). O Everton e o homenageado se sentam quando o vídeo começa; depois vêm a entrevista e o presente. Deixe os 4 arquivos testados e na ordem."
  },
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:42",
+  "hora": "13:22",
   "nota": "",
-  "obs": "Gravação mobile, vertical, 30 a 45 s, das entrevistas feitas pelo Everton. Horários: Serafim 13h42, Lúcia 14h32, Mário 15h22 e Rute 16h17.",
+  "obs": "Gravação mobile, vertical, 30 a 45 s, das entrevistas feitas pelo Everton no palco. Horários: Serafim 13h22, Lúcia 14h22, Mário 15h12 e Rute 16h07.",
   "ordem": 3085,
   "prio": false,
   "resp": [
@@ -1352,14 +1355,15 @@
   "status": "pendente",
   "tipo": "Captação",
   "titulo": "Gravar as entrevistas com os pioneiros homenageados",
-  "id": "t086"
+  "id": "t086",
+  "detalhes": "Grave com o celular, na vertical, as entrevistas que o Everton fizer no palco com cada pioneiro logo depois do vídeo: Serafim (13h22), Lúcia (14h22), Mário (15h12) e Rute (16h07). Vídeos de 30 a 45 segundos, com boa luz e áudio limpo."
  },
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:42",
+  "hora": "13:22",
   "nota": "",
-  "obs": "Serafim (13h42), Lúcia (14h32), Mário (15h22) e Rute (16h17). A Rillary grava as entrevistas com o celular.",
+  "obs": "Você se senta com o homenageado quando o vídeo começa e faz a entrevista ao vivo: Serafim (13h22), Lúcia (14h22), Mário (15h12) e Rute (16h07). A Rillary grava com o celular.",
   "ordem": 3086,
   "prio": false,
   "resp": [
@@ -1367,13 +1371,14 @@
   ],
   "status": "pendente",
   "tipo": "Jornalismo",
-  "titulo": "Entrevistar os pioneiros homenageados",
-  "id": "t087"
+  "titulo": "Conduzir no palco as entrevistas com os pioneiros homenageados",
+  "id": "t087",
+  "detalhes": "No roteiro novo, você conduz as Histórias que Iluminam no palco. Sente-se com o homenageado quando o vídeo começar e, ao final, faça a entrevista ao vivo, antes da entrega do presente: Serafim (13h22), Lúcia (14h22), Mário (15h12) e Rute (16h07). Prepare duas ou três perguntas simples: uma lembrança marcante da sua história e uma mensagem para os líderes de hoje. Trate cada um com cuidado e respeito. A Rillary grava com o celular, e as falas também servem para a matéria da ASN sobre os pioneiros."
  },
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:42",
+  "hora": "13:22",
   "nota": "",
   "obs": "",
   "ordem": 3087,
@@ -1389,9 +1394,9 @@
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:42",
+  "hora": "13:22",
   "nota": "",
-  "obs": "Fotografar a entrada de cada homenageado com Alinic, a entrevista e a entrega do presente. Ep. 1 Serafim às 13h42 (7min58), ep. 2 Lúcia às 14h32 (7min37), ep. 3 Mário às 15h22 (12min05) e ep. 4 Rute às 16h17 (10min44).",
+  "obs": "Fotografar o homenageado com o Everton no palco, a entrevista e a entrega do presente. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44).",
   "ordem": 3088,
   "prio": false,
   "resp": [
@@ -1400,12 +1405,13 @@
   "status": "pendente",
   "tipo": "Fotografia",
   "titulo": "Registro fotográfico das homenagens",
-  "id": "t089"
+  "id": "t089",
+  "detalhes": "Fotografe cada homenageado sentado com o Everton no palco, assistindo ao vídeo, durante a entrevista e recebendo o presente. Capte também as reações da plateia. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44)."
  },
  {
   "bloco": "Histórias que Iluminam",
   "dia": "dom",
-  "hora": "13:42",
+  "hora": "13:22",
   "nota": "",
   "obs": "",
   "ordem": 3089,
@@ -1419,11 +1425,11 @@
   "id": "t090"
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h37",
+  "bloco": "Divulgação dos eleitos · previsto 16h27",
   "dia": "dom",
-  "hora": "16:37",
+  "hora": "16:27",
   "nota": "",
-  "obs": "Fotografia é item obrigatório nos cards. Relatório da Comissão de Nomeações previsto para as 16h37.",
+  "obs": "Fotografia é item obrigatório nos cards. Relatório da Comissão de Nomeações previsto para as 16h27.",
   "ordem": 3089.1,
   "prio": true,
   "resp": [
@@ -1432,14 +1438,15 @@
   "status": "pendente",
   "tipo": "Fotografia",
   "titulo": "Fotos oficiais dos eleitos para os cards",
-  "id": "t068"
+  "id": "t068",
+  "detalhes": "O relatório da Comissão de Nomeações está previsto para as 16h27. Assim que os nomes forem anunciados, fotografe cada eleito em retrato, com fundo limpo e boa luz, e envie as fotos para o Franciomar na hora."
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h37",
+  "bloco": "Divulgação dos eleitos · previsto 16h27",
   "dia": "dom",
-  "hora": "16:37",
+  "hora": "16:27",
   "nota": "",
-  "obs": "A Comissão de Nomeações começa às 12h01 e apresenta os nomes às 16h37, segundo o roteiro. O horário pode mudar. Nenhum resultado preliminar deve ser divulgado.",
+  "obs": "A Comissão de Nomeações começa às 12h01 e apresenta os nomes às 16h27, segundo o roteiro. O horário pode mudar. Nenhum resultado preliminar deve ser divulgado.",
   "ordem": 3089.2,
   "prio": true,
   "resp": [
@@ -1449,12 +1456,13 @@
   "status": "pendente",
   "tipo": "Jornalismo",
   "titulo": "Confirmar nomes completos e cargos após resultado oficial",
-  "id": "t069"
+  "id": "t069",
+  "detalhes": "A Comissão de Nomeações começa a trabalhar às 12h01 e o relatório com os nomes está previsto para as 16h27. O horário pode mudar, então fique atento a partir do início da tarde. Confirme o nome completo e o cargo de cada eleito com a secretaria. Nenhum resultado preliminar deve ser divulgado."
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h37",
+  "bloco": "Divulgação dos eleitos · previsto 16h27",
   "dia": "dom",
-  "hora": "16:37",
+  "hora": "16:27",
   "nota": "",
   "obs": "",
   "ordem": 3089.3,
@@ -1468,9 +1476,9 @@
   "id": "t070"
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h37",
+  "bloco": "Divulgação dos eleitos · previsto 16h27",
   "dia": "dom",
-  "hora": "16:37",
+  "hora": "16:27",
   "nota": "",
   "obs": "",
   "ordem": 3089.4,
@@ -1485,9 +1493,9 @@
   "id": "t071"
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h37",
+  "bloco": "Divulgação dos eleitos · previsto 16h27",
   "dia": "dom",
-  "hora": "16:37",
+  "hora": "16:27",
   "nota": "",
   "obs": "",
   "ordem": 3089.5,
@@ -1502,9 +1510,9 @@
   "id": "t072"
  },
  {
-  "bloco": "Divulgação dos eleitos · previsto 16h37",
+  "bloco": "Divulgação dos eleitos · previsto 16h27",
   "dia": "dom",
-  "hora": "16:37",
+  "hora": "16:27",
   "nota": "",
   "obs": "Só após confirmação oficial.",
   "ordem": 3089.6,
@@ -1518,11 +1526,11 @@
   "id": "t073"
  },
  {
-  "bloco": "Encerramento · 16h57",
+  "bloco": "Encerramento · 16h47",
   "dia": "dom",
-  "hora": "16:57",
+  "hora": "16:47",
   "nota": "",
-  "obs": "Agradecimentos (16h57), entrega das lamparinas (17h02), hino Legado que ilumina (17h07) e declaração de encerramento (17h14).",
+  "obs": "Agradecimentos (16h47), entrega das lamparinas (16h52), hino Legado que ilumina (16h57) e declaração de encerramento (17h04).",
   "ordem": 3090,
   "prio": false,
   "resp": [
@@ -1536,8 +1544,8 @@
  {
   "id": "n003",
   "dia": "dom",
-  "bloco": "Encerramento · 16h57",
-  "hora": "17:02",
+  "bloco": "Encerramento · 16h47",
+  "hora": "16:52",
   "titulo": "Registrar a entrega das lamparinas e o hino Legado que ilumina",
   "resp": [
    "Gustavo",
@@ -1545,17 +1553,18 @@
   ],
   "tipo": "Captação",
   "prio": true,
-  "obs": "17h02: fala do presidente e entrega das lamparinas pelos pastores distritais. 17h07: hino Legado que ilumina. 17h14: declaração de encerramento.",
+  "obs": "16h52: fala do presidente e entrega das lamparinas pelos pastores distritais. 16h57: hino Legado que ilumina. 17h04: declaração de encerramento.",
   "ordem": 3090.5,
   "status": "pendente",
-  "nota": ""
+  "nota": "",
+  "detalhes": "Às 16h52, o presidente faz a fala final e os pastores distritais entregam as lamparinas. Às 16h57, todos cantam o hino Legado que ilumina, do centenário da ANPa. Gustavo grava e Jedson fotografa. É uma das imagens mais simbólicas do evento."
  },
  {
-  "bloco": "Encerramento · 16h57",
+  "bloco": "Encerramento · 16h47",
   "dia": "dom",
-  "hora": "16:57",
+  "hora": "16:47",
   "nota": "",
-  "obs": "Agradecimentos (16h57), entrega das lamparinas (17h02), hino Legado que ilumina (17h07) e declaração de encerramento (17h14).",
+  "obs": "Agradecimentos (16h47), entrega das lamparinas (16h52), hino Legado que ilumina (16h57) e declaração de encerramento (17h04).",
   "ordem": 3091,
   "prio": false,
   "resp": [
@@ -1567,9 +1576,9 @@
   "id": "t092"
  },
  {
-  "bloco": "Encerramento · 16h57",
+  "bloco": "Encerramento · 16h47",
   "dia": "dom",
-  "hora": "16:57",
+  "hora": "16:47",
   "nota": "",
   "obs": "",
   "ordem": 3092,
@@ -1583,9 +1592,9 @@
   "id": "t093"
  },
  {
-  "bloco": "Encerramento · 16h57",
+  "bloco": "Encerramento · 16h47",
   "dia": "dom",
-  "hora": "16:57",
+  "hora": "16:47",
   "nota": "",
   "obs": "",
   "ordem": 3093,
@@ -1599,9 +1608,9 @@
   "id": "t094"
  },
  {
-  "bloco": "Encerramento · 16h57",
+  "bloco": "Encerramento · 16h47",
   "dia": "dom",
-  "hora": "16:57",
+  "hora": "16:47",
   "nota": "",
   "obs": "",
   "ordem": 3094,
@@ -1615,9 +1624,9 @@
   "id": "t095"
  },
  {
-  "bloco": "Encerramento · 16h57",
+  "bloco": "Encerramento · 16h47",
   "dia": "dom",
-  "hora": "16:57",
+  "hora": "16:47",
   "nota": "",
   "obs": "",
   "ordem": 3095,
@@ -1631,9 +1640,9 @@
   "id": "t096"
  },
  {
-  "bloco": "Encerramento · 16h57",
+  "bloco": "Encerramento · 16h47",
   "dia": "dom",
-  "hora": "16:57",
+  "hora": "16:47",
   "nota": "",
   "obs": "Base para a matéria ASN de fim de evento.",
   "ordem": 3096,

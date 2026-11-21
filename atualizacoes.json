@@ -1,5 +1,5 @@
 {
- "rev": 9,
+ "rev": 10,
  "set": {
   "t042": {
    "obs": "Momentos prévios: músicas instrumentais com paisagens da região no telão. A equipe de TI registra a presença pelo crachá."
@@ -43,47 +43,49 @@
    "obs": "Votações da manhã: relatório da Secretaria (8h46), Comissão Organizadora (10h11), relatório da Tesouraria (10h22) e Comissão de Nomeações (11h49)."
   },
   "t068": {
-   "bloco": "Divulgação dos eleitos · previsto 16h37",
-   "hora": "16:37",
+   "bloco": "Divulgação dos eleitos · previsto 16h27",
+   "hora": "16:27",
    "ordem": 3089.1,
-   "obs": "Fotografia é item obrigatório nos cards. Relatório da Comissão de Nomeações previsto para as 16h37.",
+   "obs": "Fotografia é item obrigatório nos cards. Relatório da Comissão de Nomeações previsto para as 16h27.",
    "resp": [
     "Jedson"
-   ]
+   ],
+   "detalhes": "O relatório da Comissão de Nomeações está previsto para as 16h27. Assim que os nomes forem anunciados, fotografe cada eleito em retrato, com fundo limpo e boa luz, e envie as fotos para o Franciomar na hora."
   },
   "t069": {
-   "bloco": "Divulgação dos eleitos · previsto 16h37",
-   "hora": "16:37",
+   "bloco": "Divulgação dos eleitos · previsto 16h27",
+   "hora": "16:27",
    "ordem": 3089.2,
-   "obs": "A Comissão de Nomeações começa às 12h01 e apresenta os nomes às 16h37, segundo o roteiro. O horário pode mudar. Nenhum resultado preliminar deve ser divulgado."
+   "obs": "A Comissão de Nomeações começa às 12h01 e apresenta os nomes às 16h27, segundo o roteiro. O horário pode mudar. Nenhum resultado preliminar deve ser divulgado.",
+   "detalhes": "A Comissão de Nomeações começa a trabalhar às 12h01 e o relatório com os nomes está previsto para as 16h27. O horário pode mudar, então fique atento a partir do início da tarde. Confirme o nome completo e o cargo de cada eleito com a secretaria. Nenhum resultado preliminar deve ser divulgado."
   },
   "t070": {
-   "bloco": "Divulgação dos eleitos · previsto 16h37",
-   "hora": "16:37",
+   "bloco": "Divulgação dos eleitos · previsto 16h27",
+   "hora": "16:27",
    "ordem": 3089.3,
    "resp": [
     "Franciomar"
    ]
   },
   "t071": {
-   "bloco": "Divulgação dos eleitos · previsto 16h37",
-   "hora": "16:37",
+   "bloco": "Divulgação dos eleitos · previsto 16h27",
+   "hora": "16:27",
    "ordem": 3089.4
   },
   "t072": {
-   "bloco": "Divulgação dos eleitos · previsto 16h37",
-   "hora": "16:37",
+   "bloco": "Divulgação dos eleitos · previsto 16h27",
+   "hora": "16:27",
    "ordem": 3089.5
   },
   "t073": {
-   "bloco": "Divulgação dos eleitos · previsto 16h37",
-   "hora": "16:37",
+   "bloco": "Divulgação dos eleitos · previsto 16h27",
+   "hora": "16:27",
    "ordem": 3089.6,
    "obs": "Só após confirmação oficial."
   },
   "t066": {
    "titulo": "Cards informativos, monitoramento e modelos dos cards dos eleitos",
-   "obs": "Os eleitos estão previstos para as 16h37. Deixe os modelos dos cards prontos antes disso.",
+   "obs": "Os eleitos estão previstos para as 16h27. Deixe os modelos dos cards prontos antes disso.",
    "resp": [
     "Franciomar"
    ]
@@ -93,36 +95,39 @@
    "resp": [
     "Franciomar"
    ],
-   "bloco": "Tarde: One Voice, planejamento e seminários · 13h"
+   "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
   },
   "t085": {
-   "obs": "Ep. 1 Serafim às 13h42 (7min58), ep. 2 Lúcia às 14h32 (7min37), ep. 3 Mário às 15h22 (12min05) e ep. 4 Rute às 16h17 (10min44). Cada homenageado entra com Alinic e se senta quando o vídeo começa. Depois, há entrevista e um presente.",
-   "hora": "13:42"
+   "obs": "Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44). O Everton conduz a entrevista: ele e o homenageado se sentam quando o vídeo começa. Depois, há entrevista e um presente.",
+   "hora": "13:22",
+   "detalhes": "Os 4 episódios passam à tarde, intercalados com os outros momentos. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44). O Everton e o homenageado se sentam quando o vídeo começa; depois vêm a entrevista e o presente. Deixe os 4 arquivos testados e na ordem."
   },
   "t086": {
-   "obs": "Gravação mobile, vertical, 30 a 45 s, das entrevistas feitas pelo Everton. Horários: Serafim 13h42, Lúcia 14h32, Mário 15h22 e Rute 16h17.",
-   "hora": "13:42",
-   "titulo": "Gravar as entrevistas com os pioneiros homenageados"
+   "obs": "Gravação mobile, vertical, 30 a 45 s, das entrevistas feitas pelo Everton no palco. Horários: Serafim 13h22, Lúcia 14h22, Mário 15h12 e Rute 16h07.",
+   "hora": "13:22",
+   "titulo": "Gravar as entrevistas com os pioneiros homenageados",
+   "detalhes": "Grave com o celular, na vertical, as entrevistas que o Everton fizer no palco com cada pioneiro logo depois do vídeo: Serafim (13h22), Lúcia (14h22), Mário (15h12) e Rute (16h07). Vídeos de 30 a 45 segundos, com boa luz e áudio limpo."
   },
   "t089": {
-   "obs": "Fotografar a entrada de cada homenageado com Alinic, a entrevista e a entrega do presente. Ep. 1 Serafim às 13h42 (7min58), ep. 2 Lúcia às 14h32 (7min37), ep. 3 Mário às 15h22 (12min05) e ep. 4 Rute às 16h17 (10min44).",
+   "obs": "Fotografar o homenageado com o Everton no palco, a entrevista e a entrega do presente. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44).",
    "resp": [
     "Jedson"
    ],
-   "hora": "13:42"
+   "hora": "13:22",
+   "detalhes": "Fotografe cada homenageado sentado com o Everton no palco, assistindo ao vídeo, durante a entrevista e recebendo o presente. Capte também as reações da plateia. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44)."
   },
   "t091": {
-   "obs": "Agradecimentos (16h57), entrega das lamparinas (17h02), hino Legado que ilumina (17h07) e declaração de encerramento (17h14).",
-   "hora": "16:57",
-   "bloco": "Encerramento · 16h57"
+   "obs": "Agradecimentos (16h47), entrega das lamparinas (16h52), hino Legado que ilumina (16h57) e declaração de encerramento (17h04).",
+   "hora": "16:47",
+   "bloco": "Encerramento · 16h47"
   },
   "t092": {
-   "obs": "Agradecimentos (16h57), entrega das lamparinas (17h02), hino Legado que ilumina (17h07) e declaração de encerramento (17h14).",
+   "obs": "Agradecimentos (16h47), entrega das lamparinas (16h52), hino Legado que ilumina (16h57) e declaração de encerramento (17h04).",
    "resp": [
     "Jedson"
    ],
-   "hora": "16:57",
-   "bloco": "Encerramento · 16h57"
+   "hora": "16:47",
+   "bloco": "Encerramento · 16h47"
   },
   "t025": {
    "titulo": "Selecionar as fotos do simpósio para publicação",
@@ -214,9 +219,10 @@
     "Gustavo",
     "Jedson"
    ],
-   "hora": "17:02",
-   "bloco": "Encerramento · 16h57",
-   "obs": "17h02: fala do presidente e entrega das lamparinas pelos pastores distritais. 17h07: hino Legado que ilumina. 17h14: declaração de encerramento."
+   "hora": "16:52",
+   "bloco": "Encerramento · 16h47",
+   "obs": "16h52: fala do presidente e entrega das lamparinas pelos pastores distritais. 16h57: hino Legado que ilumina. 17h04: declaração de encerramento.",
+   "detalhes": "Às 16h52, o presidente faz a fala final e os pastores distritais entregam as lamparinas. Às 16h57, todos cantam o hino Legado que ilumina, do centenário da ANPa. Gustavo grava e Jedson fotografa. É uma das imagens mais simbólicas do evento."
   },
   "t107": {
    "resp": [
@@ -257,14 +263,14 @@
    "resp": [
     "Franciomar"
    ],
-   "hora": "13:42"
+   "hora": "13:22"
   },
   "t096": {
    "resp": [
     "Franciomar"
    ],
-   "hora": "16:57",
-   "bloco": "Encerramento · 16h57"
+   "hora": "16:47",
+   "bloco": "Encerramento · 16h47"
   },
   "t098": {
    "resp": [
@@ -303,55 +309,63 @@
    "bloco": "Almoço e organização · 12h04"
   },
   "t079": {
-   "bloco": "Tarde: One Voice, planejamento e seminários · 13h",
-   "titulo": "Registrar o One Voice 27, o Planejamento Estratégico e os seminários do SALT",
-   "obs": "13h12: One Voice 27 – Jesus faz tudo novo (UNB). 14h47: Planejamento Estratégico (UNB e ANPa). Seminários do SALT às 13h57 e 15h42."
+   "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h",
+   "titulo": "Registrar o regulamento, o seminário do SALT, o Planejamento Estratégico e o One Voice 27",
+   "obs": "13h12: alterações no Regulamento. 13h37: seminário do SALT (40 min). 14h37: Planejamento Estratégico (UNB e ANPa). 15h32: One Voice 27 – Jesus faz tudo novo (UNB).",
+   "detalhes": "Grave os momentos da tarde: as alterações no Regulamento, apresentadas pelo secretário executivo às 13h12; o seminário do Pr. Jean Carlos Zukowski (SALT) às 13h37, com 40 min; o Planejamento Estratégico da UNB e da ANPa às 14h37; e o One Voice 27 – Jesus faz tudo novo, da UNB, às 15h32. Capte bom áudio das falas."
   },
   "t080": {
-   "bloco": "Tarde: One Voice, planejamento e seminários · 13h"
+   "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
   },
   "t081": {
-   "bloco": "Tarde: One Voice, planejamento e seminários · 13h"
+   "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
   },
   "t082": {
-   "bloco": "Tarde: One Voice, planejamento e seminários · 13h"
+   "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
   },
   "t084": {
-   "bloco": "Tarde: One Voice, planejamento e seminários · 13h"
+   "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
   },
   "t087": {
-   "hora": "13:42",
-   "titulo": "Entrevistar os pioneiros homenageados",
+   "hora": "13:22",
+   "titulo": "Conduzir no palco as entrevistas com os pioneiros homenageados",
    "resp": [
     "Everton"
    ],
    "tipo": "Jornalismo",
-   "obs": "Serafim (13h42), Lúcia (14h32), Mário (15h22) e Rute (16h17). A Rillary grava as entrevistas com o celular."
+   "obs": "Você se senta com o homenageado quando o vídeo começa e faz a entrevista ao vivo: Serafim (13h22), Lúcia (14h22), Mário (15h12) e Rute (16h07). A Rillary grava com o celular.",
+   "detalhes": "No roteiro novo, você conduz as Histórias que Iluminam no palco. Sente-se com o homenageado quando o vídeo começar e, ao final, faça a entrevista ao vivo, antes da entrega do presente: Serafim (13h22), Lúcia (14h22), Mário (15h12) e Rute (16h07). Prepare duas ou três perguntas simples: uma lembrança marcante da sua história e uma mensagem para os líderes de hoje. Trate cada um com cuidado e respeito. A Rillary grava com o celular, e as falas também servem para a matéria da ASN sobre os pioneiros."
   },
   "t088": {
-   "hora": "13:42"
+   "hora": "13:22"
   },
   "t093": {
-   "hora": "16:57",
-   "bloco": "Encerramento · 16h57"
+   "hora": "16:47",
+   "bloco": "Encerramento · 16h47"
   },
   "t094": {
-   "hora": "16:57",
-   "bloco": "Encerramento · 16h57"
+   "hora": "16:47",
+   "bloco": "Encerramento · 16h47"
   },
   "t095": {
-   "hora": "16:57",
-   "bloco": "Encerramento · 16h57"
+   "hora": "16:47",
+   "bloco": "Encerramento · 16h47"
   },
   "t097": {
-   "hora": "16:57",
-   "bloco": "Encerramento · 16h57"
+   "hora": "16:47",
+   "bloco": "Encerramento · 16h47"
   },
   "a002": {
    "obs": "A homenagem aos voluntários do SVA é no relatório da Secretaria, domingo às 8h46. Trazer o contexto histórico."
   },
   "n005": {
    "obs": "No relatório da Secretaria, passa o vídeo do SVA \"Fortalecendo as novas gerações, escrevendo novas páginas da história\". Três voluntários recebem presentes: o casal, o jovem e os pais da Karol, voluntária na Itália. Cada um tem um vídeo de 1min30."
+  },
+  "n006": {
+   "hora": "15:32",
+   "obs": "Apresentação da UNB às 15h32, com 30 min, no auditório geral. Pode ser antecipada para antes do almoço, logo depois da convocação da Comissão de Nomeações, se houver tempo.",
+   "detalhes": "Acompanhe a apresentação do One Voice 27 – Jesus faz tudo novo, feita pela UNB às 15h32, com 30 min. Anote os principais pontos e colete falas para o material sobre o OneVoice27. Atenção: no mesmo intervalo da tarde você também conduz as entrevistas das Histórias que Iluminam.",
+   "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
   }
  },
  "add": {
@@ -478,5 +492,10 @@
    "status": "pendente",
    "nota": ""
   }
+ },
+ "blocos": {
+  "Divulgação dos eleitos · previsto 16h37": "Divulgação dos eleitos · previsto 16h27",
+  "Encerramento · 16h57": "Encerramento · 16h47",
+  "Tarde: One Voice, planejamento e seminários · 13h": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
  }
 }
