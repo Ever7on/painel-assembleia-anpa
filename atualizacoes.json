@@ -1,5 +1,5 @@
 {
- "rev": 10,
+ "rev": 11,
  "set": {
   "t042": {
    "obs": "Momentos prévios: músicas instrumentais com paisagens da região no telão. A equipe de TI registra a presença pelo crachá."
@@ -7,17 +7,22 @@
   "t044": {
    "obs": "No apelo (20h36), o presidente entrega a Bíblia aos administradores da UNB e da ANPa e aos delegados. Foto protocolar depois do quórum (19h56).",
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ]
   },
   "t046": {
    "obs": "Vídeo narrado pelo presidente, de cerca de 10 min (mapa, floresta, porto e imagens antigas de Belém). Soltar depois que o presidente sair do palco. Ao fim, ele volta a falar ao vivo.",
    "titulo": "Executar o vídeo narrado da história do campo no telão",
-   "hora": "20:26"
+   "hora": "20:26",
+   "cancelada": true
   },
   "t047": {
    "obs": "Vídeo-relatório de 20 min, com as luzes apagadas. Sequência: fala e entrega da Bíblia (20h36), foto com drone (20h39), vídeo-relatório (20h42), entrada dos batizandos (21h02) e batismo (21h05).",
-   "hora": "20:42"
+   "hora": "20:42",
+   "cancelada": true
   },
   "t048": {
    "obs": "Do vídeo-relatório (20h42) ao batismo (21h05): luzes apagadas, entrada dos batizandos pelo corredor com a Bíblia e a lamparina, batismo com os pastores Josué e Mariano no tanque e chamada dos departamentais (21h13). Respeitar as autorizações de imagem.",
@@ -48,7 +53,10 @@
    "ordem": 3089.1,
    "obs": "Fotografia é item obrigatório nos cards. Relatório da Comissão de Nomeações previsto para as 16h27.",
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ],
    "detalhes": "O relatório da Comissão de Nomeações está previsto para as 16h27. Assim que os nomes forem anunciados, fotografe cada eleito em retrato, com fundo limpo e boa luz, e envie as fotos para o Franciomar na hora."
   },
@@ -100,7 +108,8 @@
   "t085": {
    "obs": "Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44). O Everton conduz a entrevista: ele e o homenageado se sentam quando o vídeo começa. Depois, há entrevista e um presente.",
    "hora": "13:22",
-   "detalhes": "Os 4 episódios passam à tarde, intercalados com os outros momentos. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44). O Everton e o homenageado se sentam quando o vídeo começa; depois vêm a entrevista e o presente. Deixe os 4 arquivos testados e na ordem."
+   "detalhes": "Os 4 episódios passam à tarde, intercalados com os outros momentos. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44). O Everton e o homenageado se sentam quando o vídeo começa; depois vêm a entrevista e o presente. Deixe os 4 arquivos testados e na ordem.",
+   "cancelada": true
   },
   "t086": {
    "obs": "Gravação mobile, vertical, 30 a 45 s, das entrevistas feitas pelo Everton no palco. Horários: Serafim 13h22, Lúcia 14h22, Mário 15h12 e Rute 16h07.",
@@ -111,7 +120,10 @@
   "t089": {
    "obs": "Fotografar o homenageado com o Everton no palco, a entrevista e a entrega do presente. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44).",
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ],
    "hora": "13:22",
    "detalhes": "Fotografe cada homenageado sentado com o Everton no palco, assistindo ao vídeo, durante a entrevista e recebendo o presente. Capte também as reações da plateia. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44)."
@@ -124,7 +136,10 @@
   "t092": {
    "obs": "Agradecimentos (16h47), entrega das lamparinas (16h52), hino Legado que ilumina (16h57) e declaração de encerramento (17h04).",
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ],
    "hora": "16:47",
    "bloco": "Encerramento · 16h47"
@@ -164,12 +179,18 @@
   },
   "t003": {
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ]
   },
   "t008": {
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ]
   },
   "t013": {
@@ -180,17 +201,26 @@
   },
   "t022": {
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ]
   },
   "t031": {
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ]
   },
   "n002": {
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ],
    "hora": "19:56",
    "ordem": 2043.5,
@@ -198,18 +228,27 @@
   },
   "t049": {
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ],
    "hora": "20:42"
   },
   "t062": {
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ]
   },
   "t075": {
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ],
    "hora": "12:04",
    "bloco": "Almoço e organização · 12h04"
@@ -217,7 +256,10 @@
   "n003": {
    "resp": [
     "Gustavo",
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ],
    "hora": "16:52",
    "bloco": "Encerramento · 16h47",
@@ -226,7 +268,10 @@
   },
   "t107": {
    "resp": [
-    "Jedson"
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
    ]
   },
   "t004": {
@@ -294,7 +339,8 @@
    "hora": "21:22"
   },
   "t054": {
-   "hora": "21:22"
+   "hora": "21:22",
+   "cancelada": true
   },
   "t074": {
    "hora": "12:04",
@@ -321,7 +367,8 @@
    "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
   },
   "t082": {
-   "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
+   "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h",
+   "cancelada": true
   },
   "t084": {
    "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
@@ -349,7 +396,8 @@
   },
   "t095": {
    "hora": "16:47",
-   "bloco": "Encerramento · 16h47"
+   "bloco": "Encerramento · 16h47",
+   "cancelada": true
   },
   "t097": {
    "hora": "16:47",
@@ -359,13 +407,67 @@
    "obs": "A homenagem aos voluntários do SVA é no relatório da Secretaria, domingo às 8h46. Trazer o contexto histórico."
   },
   "n005": {
-   "obs": "No relatório da Secretaria, passa o vídeo do SVA \"Fortalecendo as novas gerações, escrevendo novas páginas da história\". Três voluntários recebem presentes: o casal, o jovem e os pais da Karol, voluntária na Itália. Cada um tem um vídeo de 1min30."
+   "obs": "No relatório da Secretaria, passa o vídeo do SVA \"Fortalecendo as novas gerações, escrevendo novas páginas da história\". Três voluntários recebem presentes: o casal, o jovem e os pais da Karol, voluntária na Itália. Cada um tem um vídeo de 1min30.",
+   "resp": [
+    "Gustavo",
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
+   ]
   },
   "n006": {
    "hora": "15:32",
    "obs": "Apresentação da UNB às 15h32, com 30 min, no auditório geral. Pode ser antecipada para antes do almoço, logo depois da convocação da Comissão de Nomeações, se houver tempo.",
    "detalhes": "Acompanhe a apresentação do One Voice 27 – Jesus faz tudo novo, feita pela UNB às 15h32, com 30 min. Anote os principais pontos e colete falas para o material sobre o OneVoice27. Atenção: no mesmo intervalo da tarde você também conduz as entrevistas das Histórias que Iluminam.",
    "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
+  },
+  "t005": {
+   "cancelada": true
+  },
+  "t034": {
+   "cancelada": true
+  },
+  "t039": {
+   "cancelada": true
+  },
+  "n001": {
+   "cancelada": true
+  },
+  "t065": {
+   "cancelada": true
+  },
+  "t103": {
+   "cancelada": true
+  },
+  "t033": {
+   "resp": [
+    "Gustavo"
+   ],
+   "tipo": "Preparação"
+  },
+  "n004": {
+   "resp": [
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
+   ]
+  },
+  "n007": {
+   "resp": [
+    "Gustavo",
+    "Eliezer",
+    "Jedson",
+    "Nonato",
+    "John"
+   ]
+  },
+  "t105": {
+   "status": "concluido"
+  },
+  "t106": {
+   "status": "concluido"
   }
  },
  "add": {
@@ -491,11 +593,21 @@
    "ordem": 3063.6,
    "status": "pendente",
    "nota": ""
+  },
+  "a005": {
+   "dia": "pos",
+   "bloco": "Entregas finais",
+   "hora": "",
+   "titulo": "Matéria para o Portal de Notícias Adventistas: batismos e histórias de transformação",
+   "resp": [
+    "Everton"
+   ],
+   "tipo": "Jornalismo",
+   "prio": true,
+   "obs": "Substitui o VT para a Novo Tempo, que não será mais produzido.",
+   "ordem": 4000.5,
+   "status": "pendente",
+   "nota": ""
   }
- },
- "blocos": {
-  "Divulgação dos eleitos · previsto 16h37": "Divulgação dos eleitos · previsto 16h27",
-  "Encerramento · 16h57": "Encerramento · 16h47",
-  "Tarde: One Voice, planejamento e seminários · 13h": "Tarde: regulamento, seminário, planejamento e One Voice · 13h"
  }
 }

@@ -44,7 +44,7 @@
   --f-display:"Chetta Vissto", "Didot", "Bodoni 72", Georgia, serif;
   --f-body:"Archivo", "Segoe UI", system-ui, sans-serif;
   --s-pre:#5b6ee1; --s-sex:#0e9384; --s-sab:#d97a00; --s-dom:#c0392b; --s-pos:#6b6478;
-  --p-everton:#e0701b; --p-daniele:#8a4fd0; --p-gustavo:#1286a0; --p-rillary:#cc3a86; --p-franciomar:#8f5a2a; --p-jedson:#6a8a12; --p-foto:#8d8a82; --p-todos:#5f5d57;
+  --p-everton:#e0701b; --p-daniele:#8a4fd0; --p-gustavo:#1286a0; --p-rillary:#cc3a86; --p-franciomar:#8f5a2a; --p-jedson:#6a8a12; --p-eliezer:#2f62c4; --p-nonato:#b8481e; --p-john:#2f8a5a; --p-foto:#8d8a82; --p-todos:#5f5d57;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --bg:#0a0a0a; --surface:#161616; --surface-2:#1d1d1c; --ink:#f2f1ed; --muted:#a6a39b; --line:#2b2a27;
@@ -54,7 +54,7 @@
   --warn-bg:#2e2306; --warn-line:#7a5c10; --warn-ink:#ffd76b;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -14px rgba(0,0,0,.7); --glass:rgba(10,10,10,.8);
   --s-pre:#8f9cf5; --s-sex:#3cc7b5; --s-sab:#ffa53d; --s-dom:#f0705f; --s-pos:#a49db3;
-  --p-everton:#ff9a4d; --p-daniele:#b58af0; --p-gustavo:#4cc3dd; --p-rillary:#f07ab4; --p-franciomar:#d49a64; --p-jedson:#a8cc45; --p-foto:#a6a39b; --p-todos:#a6a39b; color-scheme:dark}}
+  --p-everton:#ff9a4d; --p-daniele:#b58af0; --p-gustavo:#4cc3dd; --p-rillary:#f07ab4; --p-franciomar:#d49a64; --p-jedson:#a8cc45; --p-eliezer:#7aa3f2; --p-nonato:#f08b62; --p-john:#68cf97; --p-foto:#a6a39b; --p-todos:#a6a39b; color-scheme:dark}}
 :root[data-theme="dark"]{
   --bg:#0a0a0a; --surface:#161616; --surface-2:#1d1d1c; --ink:#f2f1ed; --muted:#a6a39b; --line:#2b2a27;
   --accent-ink:#ffc933; --accent-soft:#3a2c05;
@@ -63,9 +63,9 @@
   --warn-bg:#2e2306; --warn-line:#7a5c10; --warn-ink:#ffd76b;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -14px rgba(0,0,0,.7); --glass:rgba(10,10,10,.8);
   --s-pre:#8f9cf5; --s-sex:#3cc7b5; --s-sab:#ffa53d; --s-dom:#f0705f; --s-pos:#a49db3;
-  --p-everton:#ff9a4d; --p-daniele:#b58af0; --p-gustavo:#4cc3dd; --p-rillary:#f07ab4; --p-franciomar:#d49a64; --p-jedson:#a8cc45; --p-foto:#a6a39b; --p-todos:#a6a39b; color-scheme:dark}
+  --p-everton:#ff9a4d; --p-daniele:#b58af0; --p-gustavo:#4cc3dd; --p-rillary:#f07ab4; --p-franciomar:#d49a64; --p-jedson:#a8cc45; --p-eliezer:#7aa3f2; --p-nonato:#f08b62; --p-john:#68cf97; --p-foto:#a6a39b; --p-todos:#a6a39b; color-scheme:dark}
 [data-p="Everton"]{--pc:var(--p-everton)} [data-p="Daniele"]{--pc:var(--p-daniele)} [data-p="Gustavo"]{--pc:var(--p-gustavo)}
-[data-p="Rillary"]{--pc:var(--p-rillary)} [data-p="Franciomar"]{--pc:var(--p-franciomar)} [data-p="Jedson"]{--pc:var(--p-jedson)}
+[data-p="Rillary"]{--pc:var(--p-rillary)} [data-p="Franciomar"]{--pc:var(--p-franciomar)} [data-p="Jedson"]{--pc:var(--p-jedson)} [data-p="Eliezer"]{--pc:var(--p-eliezer)} [data-p="Nonato"]{--pc:var(--p-nonato)} [data-p="John"]{--pc:var(--p-john)}
 [data-p="Fotografia"]{--pc:var(--p-foto)} [data-p="Todos"]{--pc:var(--p-todos)}
 [data-stage="pre"]{--sc:var(--s-pre)} [data-stage="sex"]{--sc:var(--s-sex)} [data-stage="sab"]{--sc:var(--s-sab)} [data-stage="dom"]{--sc:var(--s-dom)} [data-stage="pos"]{--sc:var(--s-pos)}
 
@@ -367,8 +367,11 @@ const TEAM=[
   {n:"Daniele",r:"Assessoria de comunicação"},
   {n:"Gustavo",r:"Videomaker"},
   {n:"Rillary",r:"Social media"},
-  {n:"Franciomar",r:"Design, motion e telão"},
-  {n:"Jedson",r:"Cobertura fotográfica"}
+  {n:"Franciomar",r:"Design, motion, redes e cards"},
+  {n:"Eliezer",r:"Fotografia · todo o evento"},
+  {n:"Jedson",r:"Fotografia · revezamento"},
+  {n:"Nonato",r:"Fotografia · revezamento"},
+  {n:"John",r:"Fotografia · revezamento"}
 ];
 const DAYS=[{k:"pre",l:"Pré-evento",d:"10 a 18/11"},{k:"sex",l:"Sexta",d:"20/11"},{k:"sab",l:"Sábado",d:"21/11"},{k:"dom",l:"Domingo",d:"22/11"},{k:"pos",l:"Pós-evento",d:"entregas"}];
 const ST={pendente:"Pendente",andamento:"Andamento",concluido:"Feito",atrasado:"Atrasado"};

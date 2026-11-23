@@ -123,7 +123,10 @@
   "ordem": 1002,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -146,22 +149,6 @@
   "tipo": "Preparação",
   "titulo": "Organizar arquivos, materiais gráficos e conteúdos de apoio",
   "id": "t004"
- },
- {
-  "bloco": "Chegada e preparação",
-  "dia": "sex",
-  "hora": "16:00",
-  "nota": "",
-  "obs": "",
-  "ordem": 1004,
-  "prio": true,
-  "resp": [
-   "Franciomar"
-  ],
-  "status": "pendente",
-  "tipo": "Telão",
-  "titulo": "Conferir arquivos do telão: vídeos, apresentações, fontes, resolução e sequência",
-  "id": "t005"
  },
  {
   "bloco": "Chegada e preparação",
@@ -207,7 +194,10 @@
   "ordem": 1007,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -306,7 +296,10 @@
   "ordem": 2021,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -452,7 +445,10 @@
   "ordem": 2030,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -486,29 +482,12 @@
   "ordem": 2032,
   "prio": false,
   "resp": [
-   "Franciomar",
    "Gustavo"
   ],
   "status": "pendente",
-  "tipo": "Telão",
+  "tipo": "Preparação",
   "titulo": "Preparar materiais para a abertura",
   "id": "t033"
- },
- {
-  "bloco": "Almoço e preparação · 12h–17h",
-  "dia": "sab",
-  "hora": "15:00",
-  "nota": "",
-  "obs": "",
-  "ordem": 2033,
-  "prio": true,
-  "resp": [
-   "Franciomar"
-  ],
-  "status": "pendente",
-  "tipo": "Telão",
-  "titulo": "Conferir sequência de vídeos e apresentações do telão",
-  "id": "t034"
  },
  {
   "bloco": "Almoço e preparação · 12h–17h",
@@ -581,22 +560,6 @@
   "hora": "17:00",
   "nota": "",
   "obs": "",
-  "ordem": 2038,
-  "prio": false,
-  "resp": [
-   "Franciomar"
-  ],
-  "status": "pendente",
-  "tipo": "Telão",
-  "titulo": "Preparar o telão",
-  "id": "t039"
- },
- {
-  "bloco": "Abertura oficial · noite",
-  "dia": "sab",
-  "hora": "17:00",
-  "nota": "",
-  "obs": "",
   "ordem": 2039,
   "prio": false,
   "resp": [
@@ -640,22 +603,6 @@
   "id": "t042"
  },
  {
-  "id": "n001",
-  "dia": "sab",
-  "bloco": "Abertura oficial · noite",
-  "hora": "18:30",
-  "titulo": "Exibir paisagens da região com música instrumental no telão",
-  "resp": [
-   "Franciomar"
-  ],
-  "tipo": "Telão",
-  "prio": false,
-  "obs": "Momentos prévios da abertura, enquanto os delegados chegam.",
-  "ordem": 2041.5,
-  "status": "pendente",
-  "nota": ""
- },
- {
   "bloco": "Abertura oficial · noite",
   "dia": "sab",
   "hora": "19:30",
@@ -680,7 +627,10 @@
   "ordem": 2043,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -694,7 +644,10 @@
   "hora": "19:56",
   "titulo": "Registro fotográfico das 13 igrejas organizadas",
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "tipo": "Fotografia",
   "prio": false,
@@ -720,29 +673,16 @@
   "id": "t045"
  },
  {
-  "bloco": "Abertura oficial · noite",
-  "dia": "sab",
-  "hora": "20:26",
-  "nota": "",
-  "obs": "Vídeo narrado pelo presidente, de cerca de 10 min (mapa, floresta, porto e imagens antigas de Belém). Soltar depois que o presidente sair do palco. Ao fim, ele volta a falar ao vivo.",
-  "ordem": 2045,
-  "prio": false,
-  "resp": [
-   "Franciomar"
-  ],
-  "status": "pendente",
-  "tipo": "Telão",
-  "titulo": "Executar o vídeo narrado da história do campo no telão",
-  "id": "t046"
- },
- {
   "id": "n004",
   "dia": "sab",
   "bloco": "Abertura oficial · noite",
   "hora": "20:39",
   "titulo": "Foto oficial com drone: delegados com a Bíblia",
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "tipo": "Fotografia",
   "prio": true,
@@ -750,22 +690,6 @@
   "ordem": 2045.5,
   "status": "pendente",
   "nota": ""
- },
- {
-  "bloco": "Abertura oficial · noite",
-  "dia": "sab",
-  "hora": "20:42",
-  "nota": "",
-  "obs": "Vídeo-relatório de 20 min, com as luzes apagadas. Sequência: fala e entrega da Bíblia (20h36), foto com drone (20h39), vídeo-relatório (20h42), entrada dos batizandos (21h02) e batismo (21h05).",
-  "ordem": 2046,
-  "prio": true,
-  "resp": [
-   "Franciomar"
-  ],
-  "status": "pendente",
-  "tipo": "Telão",
-  "titulo": "Executar vídeo-relatório geral no telão",
-  "id": "t047"
  },
  {
   "bloco": "Abertura oficial · noite",
@@ -792,7 +716,10 @@
   "ordem": 2048,
   "prio": true,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -865,22 +792,6 @@
   "tipo": "Captação",
   "titulo": "Encerramento: registrar momentos finais e organizar arquivos",
   "id": "t053"
- },
- {
-  "bloco": "Abertura oficial · noite",
-  "dia": "sab",
-  "hora": "21:22",
-  "nota": "",
-  "obs": "",
-  "ordem": 2053,
-  "prio": false,
-  "resp": [
-   "Franciomar"
-  ],
-  "status": "pendente",
-  "tipo": "Telão",
-  "titulo": "Encerrar a operação do telão",
-  "id": "t054"
  },
  {
   "bloco": "Abertura oficial · noite",
@@ -1008,7 +919,10 @@
   "ordem": 3061,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1055,7 +969,10 @@
   "titulo": "Registrar a homenagem aos voluntários do SVA",
   "resp": [
    "Gustavo",
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "tipo": "Captação",
   "prio": false,
@@ -1072,7 +989,10 @@
   "titulo": "Registrar a entrada dos jovens do OYIM – Bolívia 2027",
   "resp": [
    "Gustavo",
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "tipo": "Captação",
   "prio": false,
@@ -1080,22 +1000,6 @@
   "ordem": 3063.6,
   "status": "pendente",
   "nota": ""
- },
- {
-  "bloco": "Abertura, votações e plenárias · 08h",
-  "dia": "dom",
-  "hora": "08:00",
-  "nota": "",
-  "obs": "",
-  "ordem": 3064,
-  "prio": false,
-  "resp": [
-   "Franciomar"
-  ],
-  "status": "pendente",
-  "tipo": "Telão",
-  "titulo": "Operar apresentações e materiais no telão",
-  "id": "t065"
  },
  {
   "bloco": "Abertura, votações e plenárias · 08h",
@@ -1154,7 +1058,10 @@
   "ordem": 3074,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1282,22 +1189,6 @@
   "hora": "13:00",
   "nota": "",
   "obs": "",
-  "ordem": 3081,
-  "prio": false,
-  "resp": [
-   "Franciomar"
-  ],
-  "status": "pendente",
-  "tipo": "Telão",
-  "titulo": "Operar apresentações, vídeos e materiais no telão",
-  "id": "t082"
- },
- {
-  "bloco": "Tarde: regulamento, seminário, planejamento e One Voice · 13h",
-  "dia": "dom",
-  "hora": "13:00",
-  "nota": "",
-  "obs": "",
   "ordem": 3082,
   "prio": false,
   "resp": [
@@ -1323,23 +1214,6 @@
   "tipo": "Jornalismo",
   "titulo": "Coordenar produção jornalística e entrevistas",
   "id": "t084"
- },
- {
-  "bloco": "Histórias que Iluminam",
-  "dia": "dom",
-  "hora": "13:22",
-  "nota": "",
-  "obs": "Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44). O Everton conduz a entrevista: ele e o homenageado se sentam quando o vídeo começa. Depois, há entrevista e um presente.",
-  "ordem": 3084,
-  "prio": true,
-  "resp": [
-   "Franciomar"
-  ],
-  "status": "pendente",
-  "tipo": "Telão",
-  "titulo": "Operar os 4 episódios no telão",
-  "id": "t085",
-  "detalhes": "Os 4 episódios passam à tarde, intercalados com os outros momentos. Ep. 1 Serafim às 13h22 (7min58), ep. 2 Lúcia às 14h22 (7min37), ep. 3 Mário às 15h12 (12min05) e ep. 4 Rute às 16h07 (10min44). O Everton e o homenageado se sentam quando o vídeo começa; depois vêm a entrevista e o presente. Deixe os 4 arquivos testados e na ordem."
  },
  {
   "bloco": "Histórias que Iluminam",
@@ -1400,7 +1274,10 @@
   "ordem": 3088,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1433,7 +1310,10 @@
   "ordem": 3089.1,
   "prio": true,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1549,7 +1429,10 @@
   "titulo": "Registrar a entrega das lamparinas e o hino Legado que ilumina",
   "resp": [
    "Gustavo",
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "tipo": "Captação",
   "prio": true,
@@ -1568,7 +1451,10 @@
   "ordem": 3091,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1606,22 +1492,6 @@
   "tipo": "Jornalismo",
   "titulo": "Conferir informações finais e apoiar a matéria",
   "id": "t094"
- },
- {
-  "bloco": "Encerramento · 16h47",
-  "dia": "dom",
-  "hora": "16:47",
-  "nota": "",
-  "obs": "",
-  "ordem": 3094,
-  "prio": false,
-  "resp": [
-   "Franciomar"
-  ],
-  "status": "pendente",
-  "tipo": "Telão",
-  "titulo": "Operar o telão até o fim da programação",
-  "id": "t095"
  },
  {
   "bloco": "Encerramento · 16h47",
@@ -1779,29 +1649,12 @@
   "hora": "",
   "nota": "",
   "obs": "",
-  "ordem": 4102,
-  "prio": true,
-  "resp": [
-   "Everton",
-   "Gustavo"
-  ],
-  "status": "pendente",
-  "tipo": "Jornalismo",
-  "titulo": "VT 1 Novo Tempo: batismos e histórias de transformação",
-  "id": "t103"
- },
- {
-  "bloco": "Entregas finais",
-  "dia": "pos",
-  "hora": "",
-  "nota": "",
-  "obs": "",
   "ordem": 4104,
   "prio": false,
   "resp": [
    "Gustavo"
   ],
-  "status": "pendente",
+  "status": "concluido",
   "tipo": "Captação",
   "titulo": "Vídeo institucional final",
   "id": "t105"
@@ -1817,7 +1670,7 @@
   "resp": [
    "Gustavo"
   ],
-  "status": "pendente",
+  "status": "concluido",
   "tipo": "Captação",
   "titulo": "Backup final de todo o material audiovisual",
   "id": "t106"
@@ -1831,7 +1684,10 @@
   "ordem": 4106,
   "prio": false,
   "resp": [
-   "Jedson"
+   "Eliezer",
+   "Jedson",
+   "Nonato",
+   "John"
   ],
   "status": "pendente",
   "tipo": "Fotografia",
@@ -1854,5 +1710,21 @@
   "tipo": "Jornalismo",
   "titulo": "Matéria ASN: fim de evento",
   "id": "t108"
+ },
+ {
+  "dia": "pos",
+  "bloco": "Entregas finais",
+  "hora": "",
+  "titulo": "Matéria para o Portal de Notícias Adventistas: batismos e histórias de transformação",
+  "resp": [
+   "Everton"
+  ],
+  "tipo": "Jornalismo",
+  "prio": true,
+  "obs": "Substitui o VT para a Novo Tempo, que não será mais produzido.",
+  "ordem": 4000.5,
+  "status": "pendente",
+  "nota": "",
+  "id": "a005"
  }
 ]
